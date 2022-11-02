@@ -33,7 +33,8 @@ I developed most of the front-end and trading models in C++. This includes:
 - Risk management (see video [Levels of risk management. Our approach summarized.](https://youtu.be/09yW6IgQkqA))
 - Exchange connectivity via REST and WebSocket APIs
 - Live profit calculation and reporting
-- Client-server infrastrcture to distirbute trading signals to customers
+- Client-server infrastrcture based on TCP/IP to distirbute trading signals to customers
+- Developed and IPC protocol based on BSD sockets
 - UI based on Dear ImGui
 - Chart and indicators rendering in OpenGL
 
