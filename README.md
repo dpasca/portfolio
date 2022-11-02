@@ -68,3 +68,21 @@ I was the sole developer on this project. The main tasks were:
 #### What I learned
 
 - Build and usage of OpenEXR and OpenColorIO
+
+### 3D display for Melarossa health app (2022)
+
+A wasm package for the 3D display of a human figure (male and female) with morphing animation of vertices between different body weights and fat distributions. See the [announcement](https://www.melarossa.it/dieta/simulatore-3d/) (in Italian).
+
+![](https://www.melarossa.it/wp-content/uploads/2022/06/somatotipo-3d.jpg?x75677)
+
+#### My work on the project
+
+- Build the C++ and OpenGL ES-based rendering and animation engine
+- Deployment was done via Emscripten compiler
+- The display includes a shader that can morph vertices of separate weght models
+- Ambient lighting is done with Imaga Based Lighting (IBL) represented by spherical harmonics, for added realism
+- Real-time shadows are rendered also on mobile phones
+
+#### What I learned
+
+- Deployment and optimization of WebGL 1.0 and 2.0 via Emscripten
