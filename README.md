@@ -21,31 +21,28 @@ A complete trading system for cryptocurrencies. See [www.enzobot.com](https://ww
 
 #### My work on the project
 
-I developed most of the front-end and trading models in C++. This includes:
+I developed most of the front-end and trading models in C++. Some of the major tasks are:
 
-- Trading algorithms and realization of custom indicators
-- Implementation of standard indicators
-- Machine-learning and walk-forward approach
-- Live trading on Bybit and Binance exchanges
+- Realized machine-learning driven trading algorithms and indicators
+- Live trading on Bybit and Binance exchanges via REST and WebSocket APIs
 - Backtesting infrastructure
   - Simulation of exchange orders, including HFT (sub-minute) data
-  - Reporting: P&L, Calmar ratio, Sharpe ratio, Monte Carlo validation
+  - Reporting of P&L, Calmar ratio, Sharpe ratio, Monte Carlo validation, etc.
 - Risk management (see video [Levels of risk management. Our approach summarized.](https://youtu.be/09yW6IgQkqA))
-- Exchange connectivity via REST and WebSocket APIs
 - Live profit calculation and reporting
-- Client-server infrastructure based on TCP/IP to distribute trading signals to customers
-- Developed and IPC protocol based on BSD sockets
+- TCP/IP client-server infrastructure to distribute trading signals to customers
+- IPC protocol based on BSD sockets
 - UI based on Dear ImGui
 - Chart and indicators rendering in OpenGL
 
 #### What I learned
 
-- Difficulty of building consistently profitable strategies
-- Practical meachine-learning application and techniques to reduce curve-fitting
+- Challanges of building consistently profitable strategies
+- Practical meachine-learning application and techniques to reduce curve fitting
 - REST API connectivity and crypto exchange protocols
 - Risk and portfolio management techniques
-- Leverage trading and models for short selling
-- Usage of Dear ImGui
+- Leverage trading and short selling
+- Usage of Dear ImGui for a complex project
 - Reliance on multiprocessing for fault-tolerance
 
 ### xComp image comparer (2022)
