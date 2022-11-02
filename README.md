@@ -17,7 +17,7 @@ Some pointers:
 
 A complete trading system for cryptocurrencies. See [www.enzobot.com](https://www.enzobot.com).
 
-![](20221017_tsp_with_indicators.png)
+![](/images/20221017_tsp_with_indicators.png)
 
 #### My work on the project
 
