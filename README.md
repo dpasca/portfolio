@@ -10,3 +10,39 @@ Some pointers:
 - Italian is my mother tongue, English second, Japanese a distant third.
 - In 2022 I started learning Russian and Chinese on Duolingo ([my profile](https://www.duolingo.com/profile/TheCrib)).
 - I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about algo-trading, sometimes Duolingo lessons or programming.
+
+## Projects
+
+### ENZO Trading system (2018~)
+
+A complete trading system for cryptocurrencies. See [www.enzobot.com](https://www.enzobot.com).
+
+![](20221017_tsp_with_indicators.png)
+
+#### My work on the project
+
+I developed most of the front-end and trading models in C++. This includes:
+
+- Trading algorithms and realization of custom indicators
+- Implementation of standard indicators
+- Machine-learning and walk-forward approach
+- Live trading on Bybit and Binance exchanges
+- Backtesting infrastrcture
+  - Simulation of exchange orders, including HFT (sub-minute) data
+  - Reporting: P&L, Calmar ratio, Sharpe ratio, Monte Carlo validation
+- Risk management (see video [Levels of risk management. Our approach summarized.](https://youtu.be/09yW6IgQkqA))
+- Exchange connectivity via REST and WebSocket APIs
+- Live profit calculation and reporting
+- Client-server infrastrcture to distirbute trading signals to customers
+- UI based on Dear ImGui
+- Chart and indicators rendering in OpenGL
+
+#### What I learned
+
+- Difficulty of building consistently profitable strategies
+- Practical meachine-learning application and techniques to reduce curve-fitting
+- REST API connectivity and crypto exchange protocols
+- Risk and portfolio management techniques
+- Leverage trading and models for short selling
+- Usage of Dear ImGui
+- Reliance on multiprocessing for fault-tolerance
