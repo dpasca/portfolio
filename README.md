@@ -77,11 +77,11 @@ A wasm package for the 3D display of a human figure (male and female) with morph
 
 #### My work on the project
 
-- Build the C++ and OpenGL ES-based rendering and animation engine
-- Deployment was done via Emscripten compiler
-- The display includes a shader that can morph vertices of separate weght models
-- Ambient lighting is done with Imaga Based Lighting (IBL) represented by spherical harmonics, for added realism
-- Real-time shadows are rendered also on mobile phones
+- Adapted my current C++ and OpenGL ES-based 3D engine for the job
+- Added necessary system code and build scripts to compile and run via Emscripten
+- Wrote a shader for deformation and blending to morph individual body sections at different BMIs
+- Implemented Image Based Lighting (IBL) for added realism
+- Implemented real-time shadow mapping, also working on mobile phones
 
 #### What I learned
 
