@@ -54,7 +54,7 @@ An image viewer capable of building composites of a stack of images with transpa
 
 This tool was built to visualize region updates of a render on top of previous renders, in real-time. Images found in a choosen folder to scan for, are quickly composited with alpha blending in a stack. OpenColorIO transformations are optionally added to the composite image, which can be saved out as a PNG.
 
-![](https://github.com/gugenstudio/xComp/blob/master/apps/docs/xcomp_sshot_01.jpg)
+![](https://raw.githubusercontent.com/gugenstudio/xComp/master/apps/docs/xcomp_sshot_01.jpg)
 
 #### My work on the project
 
