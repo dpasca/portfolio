@@ -12,7 +12,7 @@ See more details on: [Implementing an experimental RenderMan compliant REYES ren
 
 #### My work on the project
 
-I was the sole developer on this project except. The main tasks were:
+I was the sole developer on this project. The main tasks were:
 
 - Writing the rib scene parser
 - RenderMan shader parser and compiler
@@ -28,4 +28,4 @@ I was the sole developer on this project except. The main tasks were:
 - Writing a shader compiler and VM
 - Writing N-way vector and thread parallelism
 - Basics of implementation of network-distributed rendering
-
+- Use of CMake for multiplatform builds
