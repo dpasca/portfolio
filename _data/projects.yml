@@ -1,9 +1,12 @@
 - title: "ENZO Trading system (2018~)"
   src:    proj_enzo.md
-  id:     enzo-ts
+  id:     enzo-trading-system
 - title:  "xComp image comparer (2022)"
   src:    proj_xcomp.md
-  id:     xcomp
+  id:     xcomp-image-comparer
 - title:  "3D display for Melarossa health app (2022)"
   src:    proj_melarossa.md
   id:     melarossa-3d
+- title:  "XPSVR - Experimental Flight Simulator (2017~2018)"
+  src:    proj_xpsvr.md
+  id:     xpsvr-experimental-flight-simulator
