@@ -1,5 +1,3 @@
-<h3 id="{{ include.id }}">{{ include.title }}</h3>
-
 A complete trading system for cryptocurrencies. See [www.enzobot.com](https://www.enzobot.com).
 
 ![]({{ site.baseurl }}/images/20221017_tsp_with_indicators.png)

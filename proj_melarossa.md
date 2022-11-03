@@ -1,5 +1,3 @@
-<h3 id="{{ include.id }}">{{ include.title }}</h3>
-
 A wasm package for the 3D display of a human figure (male and female) with morphing animation of vertices between different body weights and fat distributions. See the [announcement](https://www.melarossa.it/dieta/simulatore-3d/) (in Italian).
 
 ![](https://www.melarossa.it/wp-content/uploads/2022/06/somatotipo-3d.jpg?x75677)
