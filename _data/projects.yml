@@ -19,3 +19,6 @@
 - title:  "RibTools - REYES-style renderer (2010)"
   src:    proj_ribtools.md
   id:     ribtools
+- title:  "Experimental GPGPU engine at Square Enix (2008~2010)"
+  src:    proj_sqexgpgpu.md
+  id:     sqexgpgpu
