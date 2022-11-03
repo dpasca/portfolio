@@ -13,8 +13,6 @@ Some pointers:
 
 ## Projects
 
-{% include_relative proj_enzo.md %}
-
 {% for item in site.data.projects %}
 {% include_relative {{ item.src }} %}
 {% endfor %}
