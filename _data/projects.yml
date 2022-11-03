@@ -10,3 +10,6 @@
 - title:  "XPSVR - Experimental Flight Simulator (2017~2018)"
   src:    proj_xpsvr.md
   id:     xpsvr-experimental-flight-simulator
+- title:  "Fractal Combat X (FCX) (2012)"
+  src:    proj_fcx.md
+  id:     fracta-combat-x

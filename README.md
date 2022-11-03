@@ -13,7 +13,7 @@ Skills summary:
 - Good knowledge of **image processing and compression** (DCT, Wavelets, zero-tree encoding, progressive encoding)
 -	5 years experience developing an **algorithmic trading** system from the ground up, with machine-learning optimization, network connectivity, backtesting and reporting
 -	Some experience with **flight simulation** (flight dynamic models, avionics, auto-pilot, weapon systems)
--	Languages: fluent **English**, native **Italian**, conversational/informal-business **Japanese**. Beginner Russian and Chinese.
+-	Languages: fluent **English**, native **Italian**, conversational **Japanese**, beginner Russian and Chinese
 
 ## Projects
 
