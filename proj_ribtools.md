@@ -10,8 +10,6 @@ Parallelism is implemented at all levels:
 
 See more details on: [Implementing an experimental RenderMan compliant REYES renderer]({{ site.baseurl }}/images/2010_04_Implementing_REYES_RibTools_up_20221110.pdf)
 
-![]({{ site.baseurl }}/images/2010_04_Implementing_REYES_RibTools_up_20221110.pdf)
-
 #### My work on the project
 
 I was the sole developer on this project except. The main tasks were:
