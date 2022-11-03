@@ -1,4 +1,4 @@
-### {{ include.title }}
+<h3>{{ include.title }}</h3>
 
 A complete trading system for cryptocurrencies. See [www.enzobot.com](https://www.enzobot.com).
 
