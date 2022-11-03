@@ -8,12 +8,12 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 
 Skills summary:
 - **30 years of work experience as a C/C++ programmer**, specialized in performance optimization, computer graphics, algorithmic trading, simulation, system programming, deskptop applications and game development
--	Published software on PC, Mac, mobile and game consoles
+- Published software on Windows, Linux, MS-DOS, Mac, mobile and game consoles
 - Expert in **real-time 3D graphics**, OpenGL, Direct3D, software rendering, geometry and animation compression
 - Good knowledge of **image processing and compression** (DCT, Wavelets, zero-tree encoding, progressive encoding)
--	5 years experience developing an **algorithmic trading** system from the ground up, with machine-learning optimization, network connectivity, backtesting and reporting
--	Some experience with **flight simulation** (flight dynamic models, avionics, auto-pilot, weapon systems)
--	Languages: fluent **English**, native **Italian**, conversational **Japanese**, beginner Russian and Chinese
+- 5 years experience developing an **algorithmic trading** system from the ground up, with machine-learning optimization, network connectivity, backtesting and reporting
+- Some experience with **flight simulation** (flight dynamic models, avionics, auto-pilot, weapon systems)
+- Languages: fluent **English**, native **Italian**, conversational **Japanese**, beginner Russian and Chinese
 
 ## Projects
 
