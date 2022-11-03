@@ -12,4 +12,7 @@
   id:     xpsvr-experimental-flight-simulator
 - title:  "Fractal Combat X (FCX) (2012)"
   src:    proj_fcx.md
-  id:     fracta-combat-x
+  id:     fractal-combat-x
+- title:  "Final Freeway 2R (FF2) (2010)"
+  src:    proj_ff2.md
+  id:     final-freeway-2r
