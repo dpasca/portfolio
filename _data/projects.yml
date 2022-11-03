@@ -16,3 +16,6 @@
 - title:  "Final Freeway 2R (FF2) (2010)"
   src:    proj_ff2.md
   id:     final-freeway-2r
+- title:  "RibTools - REYES-style renderer (2010)"
+  src:    proj_ribtools.md
+  id:     ribtools
