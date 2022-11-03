@@ -1,6 +1,9 @@
-- src:  proj_enzo.md
-  id:   enzo-trading-system-2018
-- src:  proj_xcomp.md
-  id:   xcomp-image-comparer-2022
-- src:  proj_melarossa.md
-  id:   3d-display-for-melarossa-health-app-2022
+- title: "ENZO Trading system (2018~)"
+  src:    proj_enzo.md
+  id:     enzo-trading-system-2018
+- title:  "xComp image comparer (2022)"
+  src:    proj_xcomp.md
+  id:     xcomp-image-comparer-2022
+- title:  "3D display for Melarossa health app (2022)"
+  src:    proj_melarossa.md
+  id:     3d-display-for-melarossa-health-app-2022
