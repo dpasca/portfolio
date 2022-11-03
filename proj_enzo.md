@@ -2,7 +2,7 @@
 
 A complete trading system for cryptocurrencies. See [www.enzobot.com](https://www.enzobot.com).
 
-![]({{ page.root }}/images/20221017_tsp_with_indicators.png)
+![]({{ site.baseurl }}/images/20221017_tsp_with_indicators.png)
 
 #### My work on the project
 
