@@ -22,6 +22,6 @@ Some pointers:
 </ul>
 
 {% for item in site.data.projects %}
-{% include_relative {{ item.src }} title={{ item.title }} %}
+{% include_relative {{ item.src }} title='{{ item.title }}' %}
 {% endfor %}
 
