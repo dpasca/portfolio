@@ -22,9 +22,7 @@ Some pointers:
 </ul>
 
 {% for item in site.data.projects %}
-  {% capture item_title_cap %}
-    {{ item.title }}
-  {% endcapture %}
+  {% assign item_title_cap = item.title %}
   {% include_relative {{ item.src }} title=item_title_cap %}
 {% endfor %}
 
