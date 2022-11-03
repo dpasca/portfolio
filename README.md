@@ -12,6 +12,7 @@ Skills summary:
 - Expert in **real-time 3D graphics**, OpenGL, Direct3D, software rendering, geometry and animation compression
 - Good knowledge of **image processing and compression** (DCT, Wavelets, zero-tree encoding, progressive encoding)
 - 5 years experience developing an **algorithmic trading** system from the ground up, with machine-learning optimization, network connectivity, backtesting and reporting
+- Experience writing complete **GUI systems** for desktop, mobile VR and avionics displays
 - Some experience with **flight simulation** (flight dynamic models, avionics, auto-pilot, weapon systems)
 - Languages: fluent **English**, native **Italian**, conversational **Japanese**, beginner Russian and Chinese
 
