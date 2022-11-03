@@ -14,6 +14,6 @@ Some pointers:
 ## Projects
 
     {% for item in site.data.projects %}
-        {% include_relative item.src %}
+        {% include_relative {{ item.src }} %}
     {% endfor %}
 
