@@ -1,4 +1,4 @@
-### ENZO Trading system (2018~)
+### {{ include.title }}
 
 A complete trading system for cryptocurrencies. See [www.enzobot.com](https://www.enzobot.com).
 

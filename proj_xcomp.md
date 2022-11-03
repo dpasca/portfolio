@@ -1,4 +1,4 @@
-### xComp image comparer (2022)
+### {{ include.title }}
 
 An image viewer capable of building composites of a stack of images with transparent regions. Source code at [github.com/gugenstudio/xComp](https://github.com/gugenstudio/xComp)
 

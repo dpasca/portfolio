@@ -1,4 +1,4 @@
-### 3D display for Melarossa health app (2022)
+### {{ include.title }}
 
 A wasm package for the 3D display of a human figure (male and female) with morphing animation of vertices between different body weights and fat distributions. See the [announcement](https://www.melarossa.it/dieta/simulatore-3d/) (in Italian).
 
