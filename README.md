@@ -13,6 +13,18 @@ Some pointers:
 
 ## Projects
 
+<ul>
+  {% for item in site.data.projects %}
+    <li>
+      <b><a href="#{{ item.id }}">{{ item.title }}</a></b>
+    </li>
+  {% endfor %}
+</ul>
+
+{% for item in site.data.projects %}
+{% include_relative {{ item.src }} %}
+{% endfor %}
+
 {% for item in site.data.projects %}
 {% include_relative {{ item.src }} %}
 {% endfor %}
