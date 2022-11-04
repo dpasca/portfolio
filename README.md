@@ -59,8 +59,8 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 ![]({{ site.baseurl }}{{ item.image_local }})
    {% endif %}
   {% endif %}
-  {% if item.yt_id %}
-   {% include youtubePlayer.html id=item.yt_id %}
+  {% if item.youtube_id %}
+   {% include youtubePlayer.html id=item.youtube_id %}
   {% endif %}
   {% include_relative {{ item.src }} %}
 {% endfor %}
