@@ -1,6 +1,7 @@
 - title: "ENZO Trading system (2018~)"
   src:    proj_enzo.md
   id:     enzo-trading-system
+  image:  "{{ site.baseurl }}/images/20221017_tsp_with_indicators.png"
 - title:  "xComp image comparer (2022)"
   src:    proj_xcomp.md
   id:     xcomp-image-comparer
