@@ -64,7 +64,7 @@
   year_end:     2004
   src:          proj_shlight.md
   id:           shlight
-  image_local:  "shlight_2004_01.jpg"
+  image_local:  "/images/shlight_2004_01.jpg"
   youtube_id:   Lb83ihf6-u8
 - title:        "Other projects WIP"
   year_sta:     1990
