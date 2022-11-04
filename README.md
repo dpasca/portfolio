@@ -18,17 +18,18 @@ Skills summary:
 
 ## Projects
 
-<ul>
+<ol>
   {% for item in site.data.projects %}
     <li>
       <b><a href="#{{ item.id }}">{{ item.title }}</a></b>
     </li>
   {% endfor %}
-</ul>
+</ol>
 
 {% for item in site.data.projects %}
 ---
-  <h3 id="{{ item.id }}">{{ item.title }}</h3>
+  {% assign idx = {{forloop.index}}+1 %}
+  <h3 id="{{ item.id }}">{{forloop.index}}. - {{ item.title }}</h3>
   {% include_relative {{ item.src }} %}
 {% endfor %}
 
