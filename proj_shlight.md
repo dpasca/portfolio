@@ -1,6 +1,6 @@
 A real-time demo that uses Spherical Harmonics (SH) to quickly apply Image Based Lighting (IBL) for diffuse and ambient lighting.
 
-The use can paint on a virtual cube map to freely apply lighting without the limitation of classical light sources.
+The user can paint on a virtual cube map to freely apply lighting without the limitation of classical light sources.
 
 The SH coefficients for the IBL are calculated on the CPU at every frame. The rendering is performed in OpenGL with a shader that calculates lighting of each vertex based on those SH coefficients.
 
@@ -17,4 +17,4 @@ I was the sole developer on this project. The main tasks were:
 
 #### What I learned
 
-- The use of Spherical Harmonics for lighting
+- Application of Spherical Harmonics for lighting
