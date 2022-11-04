@@ -7,12 +7,14 @@ I've been developing software and video games since the 90s, always with a focus
 I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about algo-trading, sometimes Duolingo lessons or programming.
 
 Skills summary:
-- **30 years of work experience as a C/C++ programmer**, specialized in performance optimization, computer graphics, algorithmic trading, simulation, system programming, deskptop applications and game development
+- **C/C++ programmer with 30 years work experience**
+- Specialized in performance optimization, computer graphics, algorithmic trading, risk management, simulation, system programming, desktop applications and game development
 - Published software on Windows, Linux, MS-DOS, Mac, mobile and game consoles
-- Expert in **real-time 3D graphics**, OpenGL, Direct3D, software rendering, geometry and animation compression
+- Expert in **real-time 3D graphics**, **OpenGL**, **Direct3D**, software rendering, geometry and animation compression
 - Good knowledge of **image processing and compression** (DCT, Wavelets, zero-tree encoding, progressive encoding)
-- 5 years experience developing an **algorithmic trading** system from the ground up, with machine-learning optimization, network connectivity, backtesting and reporting
+- 5 years experience developing an **algorithmic trading systems** from the ground up, with machine-learning optimization, network connectivity, backtesting and reporting
 - Experience writing complete **GUI systems** for desktop, mobile VR and avionics displays
+- Some experience with **REST** API, PHP, **SQL**, Java, Python
 - Some experience with **flight simulation** (flight dynamic models, avionics, auto-pilot, weapon systems)
 - Languages: fluent **English**, native **Italian**, conversational **Japanese**, beginner Russian and Chinese
 
