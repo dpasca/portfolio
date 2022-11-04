@@ -1,3 +1,6 @@
+---
+image: http://oykgames.com/wp-content/uploads/2022/11/fcx_sshot_01_140303_014657_2208x1242.jpg
+---
 # Davide Pasca's programmer portfolio
 
 I consider programming computers the ultimate form of exploration and creativity, everything else is secondary. I'm an R&D guy at the core, although I also appreciate publishing products, because it's something that can have a direct impact on people.
