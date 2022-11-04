@@ -21,8 +21,9 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 
 ## Emplyoment History
 
+{:style="font-size: 80%"}
 | Start   | End  | Title  | Company  | Location  |
-|---------|---------|--------|----------|-----------|
+|:--------|:--------|:-------|:---------|:----------|
 | 2010/11 | Current | Co-founder and CTO | NEWTYPE K.K. | Tokyo, Japan |
 | 2006/11 | 2010/4 | Senior Software Engineer | Square Enix Co., Ltd. | Tokyo, Japan |
 | 2001/8  | 2006/9 | Senior Software Engineer | Arika Co., Ltd. | Tokyo, Japan |
