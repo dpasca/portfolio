@@ -6,4 +6,6 @@ relative_links:
 include:
   - README.md
 
+image: http://oykgames.com/wp-content/uploads/2022/11/fcx_sshot_01_140303_014657_2208x1242.jpg
+
 theme: jekyll-theme-tactile
