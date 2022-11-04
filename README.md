@@ -47,18 +47,18 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
   {% assign idx = {{forloop.index}}+1 %}
 <h3 id="{{ item.id }}">{{forloop.index}}. {{ item.title }}</h3>
   {% if item.image %}
-    {% if item.image_small %}
+   {% if item.image_small %}
 ![]({{ item.image }}){:width=50%}
-    {% else %}
+   {% else %}
 ![]({{ item.image }})
-    {% endif %}
+   {% endif %}
   {% endif %}
   {% if item.image_local %}
-    {% if item.image_small %}
+   {% if item.image_small %}
 ![]({{ site.baseurl }}{{ item.image_local }}){:width=50%}
-    {% else %}
+   {% else %}
 ![]({{ site.baseurl }}{{ item.image_local }})
-    {% endif %}
+   {% endif %}
   {% endif %}
   {% include_relative {{ item.src }} %}
 {% endfor %}
