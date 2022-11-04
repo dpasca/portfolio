@@ -60,7 +60,7 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
    {% endif %}
   {% endif %}
   {% if item.youtube_id %}
-   {% include youtubePlayer.html id=item.youtube_id %}
+   {% include youtubeplayer.html id=item.youtube_id %}
   {% endif %}
   {% include_relative {{ item.src }} %}
 {% endfor %}
