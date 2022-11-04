@@ -22,6 +22,9 @@
 - title:  "Experimental GPGPU engine at Square Enix (2008~2010)"
   src:    proj_sqexgpgpu.md
   id:     sqexgpgpu
-- title:  "Other projects WIP (2010~1995)"
+- title:  "Tetris: The Grand Master Ace (2005)"
+  src:    proj_tgmace.md
+  id:     tgmace
+- title:  "Other projects WIP (1990~2010)"
   src:    proj_wip.md
   id:     projects-wip

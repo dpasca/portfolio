@@ -1,4 +1,4 @@
-While employed at Square Enix, Japan, I partecipated in the development of a next generation 3D engine capable of optimizing production rendering scenes and reproducing them in real-time with Direct3D and many-core hardware.
+While employed at [Square Enix](https://en.wikipedia.org/wiki/Square_Enix), Japan, I partecipated in the development of a next generation 3D engine capable of optimizing production rendering scenes and reproducing them in real-time with Direct3D and many-core hardware.
 
 The engine supported very high resolution geometry and multi-gigabyte textures as well as per-vertex animation.
 I wrote rendering and compression technology capable of reducing computing and storage for the target hardware.
