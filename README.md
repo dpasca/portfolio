@@ -6,7 +6,8 @@ I've been developing software and video games since the 90s, always with a focus
 
 I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about algo-trading, sometimes Duolingo lessons or programming.
 
-Skills summary:
+## Skills Summary
+
 - **C/C++ programmer with 30 years work experience**
 - Specialized in performance optimization, computer graphics, algorithmic trading, risk management, simulation, system programming, desktop applications and game development
 - Published software on Windows, Linux, MS-DOS, Mac, mobile and game consoles
@@ -17,6 +18,18 @@ Skills summary:
 - Some experience with **REST** API, PHP, **SQL**, Java, Python
 - Some experience with **flight simulation** (flight dynamic models, avionics, auto-pilot, weapon systems)
 - Languages: fluent **English**, native **Italian**, conversational **Japanese**, beginner Russian and Chinese
+
+## Emplyoment History
+
+| Start   | End  | Title  | Company  | Location  |
+|---------|---------|--------|----------|-----------|
+| 2010/11 | Current | Co-founder and CTO | NEWTYPE K.K. | Tokyo, Japan |
+| 2006/11 | 2010/4 | Senior Software Engineer | Square Enix Co., Ltd. | Tokyo, Japan |
+| 2001/8  | 2006/9 | Senior Software Engineer | Arika Co., Ltd. | Tokyo, Japan |
+| 2000/5  | 2000/12 | Senior Software Engineer | Gama Internet Technology USA, Inc. | Costa Mesa, CA, USA |
+| 1999/3  | 2000/3 | Software Engineer | SquareSoft, Inc. | Costa Mesa, CA, USA |
+| 1995/9  | 1998/6 | Senior Programmer | Digital Dialect | West Hills, CA, USA |
+| 1990/11 | 1995/8 | Programmer | Tabasoft, s.a.s. | Rome, Italy |
 
 ## Projects
 
