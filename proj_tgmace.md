@@ -2,7 +2,7 @@ While employed at [Arika](https://en.wikipedia.org/wiki/Arika), Japan, I worked 
 
 My involvement was mostly as a system programmer, taking care of the Xbox 360 platform including, rendering engine, network programming, audio engine. At the time we were working on an extra tight schedule to match the Xbox 360 release.
 
-![](https://tetris.wiki/images/thumb/7/74/TGM_ACE_boxart_scan.jpg/636px-TGM_ACE_boxart_scan.jpg)
+![](https://tetris.wiki/images/thumb/7/74/TGM_ACE_boxart_scan.jpg/636px-TGM_ACE_boxart_scan.jpg){:width="50%"}
 
 #### My work on the project
 
