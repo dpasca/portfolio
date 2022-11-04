@@ -37,15 +37,14 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 <ol>
   {% for item in site.data.projects %}
     <li>
-      <b><a href="#{{ item.id }}">{{ item.title }}</a></b>
+      <b><a href="#{{ item.id }}">({{ item.year_end }}) {{ item.title }}</a></b>
     </li>
   {% endfor %}
 </ol>
 
 {% for item in site.data.projects %}
 ---
-  {% assign idx = {{forloop.index}}+1 %}
-<h3 id="{{ item.id }}">{{forloop.index}}. {{ item.title }}</h3>
+<h3 id="{{ item.id }}">{{forloop.index}}. ({{ item.year_end }}) {{ item.title }}</h3>
   {% if item.image %}
    {% if item.image_small %}
 ![]({{ item.image }}){:width="50%"}
