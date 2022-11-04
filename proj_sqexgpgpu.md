@@ -5,8 +5,7 @@ I wrote rendering and compression technology capable of reducing computing and s
 Rendering was performed with Direct3D 10. Compression used lossy approaches based on DCT, Wavelets and Zero-tree encoding.
 
 ![]({{ site.baseurl }}/images/zzz_demo_tv_nhk_program.jpg)
-![]({{ site.baseurl }}/images/zzzdemo_rtpic_03.png)
-![]({{ site.baseurl }}/images/zzzdemo_rtpic_01.png)
+![]({{ site.baseurl }}/images/zzzdemo_rtpic_03.png){:width="50%"} ![]({{ site.baseurl }}/images/zzzdemo_rtpic_01.png){:width="50%"}
 
 #### My work on the project
 
