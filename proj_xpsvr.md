@@ -11,8 +11,6 @@ and OpenGL 4.5.
 
 See more details on the [XPSVR's blog](https://xpsvr.com/tag/flightsim).
 
-![](https://xpsvr.com/wp-content/uploads/2018/04/sshot_180310_045322.jpg)
-
 #### My work on the project
 
 I was the sole developer on this project. The main tasks were:

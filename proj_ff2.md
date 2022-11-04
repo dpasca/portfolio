@@ -7,8 +7,6 @@ distribution across multiple markets around the world.
 It's built with and in-house game engine which I developed in C++ on top of
 OpenGL ES. The game featues an unconventional presentation, common in the arcades of the 80s and early 90s.
 
-![](https://oykgames.com/wp-content/gallery/ff2r_sshots/ff2_05_kate_kenyon_960.png)
-
 #### My work on the project
 
 I was the sole developer on this project except for the Android platform. The main tasks were:

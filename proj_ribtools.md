@@ -6,8 +6,6 @@ Parallelism is implemented at all levels:
 - Many-core hardware (multi-threading)
 - Network-distributed rendering (custom protocol over TCP/IP)
 
-![](https://github.com/dpasca/RibTools/raw/master/docs/progress/2010-01-26_killeroo_properly_displaced.png)
-
 See more details on: [Implementing an experimental RenderMan compliant REYES renderer]({{ site.baseurl }}/images/2010_04_Implementing_REYES_RibTools_up_20221110.pdf)
 
 #### My work on the project
