@@ -1,7 +1,5 @@
 A complete trading system for cryptocurrencies. See [www.enzobot.com](https://www.enzobot.com).
 
-![]({{ site.baseurl }}/images/20221017_tsp_with_indicators.png)
-
 #### My work on the project
 
 I developed most of the front-end and trading models in C++. Some of the major tasks are:

@@ -45,9 +45,9 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 {% for item in site.data.projects %}
 ---
   {% assign idx = {{forloop.index}}+1 %}
-  <h3 id="{{ item.id }}">{{forloop.index}}. {{ item.title }}</h3>
+<h3 id="{{ item.id }}">{{forloop.index}}. {{ item.title }}</h3>
   {% if item.image %}
-    ![]({{ item.image }})
+![]({{ item.image }})
   {% endif %}
   {% include_relative {{ item.src }} %}
 {% endfor %}

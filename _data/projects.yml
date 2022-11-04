@@ -5,6 +5,7 @@
 - title:  "xComp image comparer (2022)"
   src:    proj_xcomp.md
   id:     xcomp-image-comparer
+  image:  "https://raw.githubusercontent.com/gugenstudio/xComp/master/apps/docs/xcomp_sshot_01.jpg"
 - title:  "3D display for Melarossa health app (2022)"
   src:    proj_melarossa.md
   id:     melarossa-3d
