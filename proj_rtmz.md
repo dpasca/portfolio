@@ -16,7 +16,7 @@ Major features are:
 
 #### My work on the project
 
-- I wrote the underlying engine and the reset of the demo
+- I wrote a rasterizer wih subpixel accuracy
 - Implemented a materials system, within the limitations of 256 colors
 - Wrote readers for *OBJ*, *3D Studio* and *Videoscape 3D* formats
 - Implemented a cool 3D UI and record+playback system for demo purposes
