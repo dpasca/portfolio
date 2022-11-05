@@ -1,7 +1,7 @@
 - title:        "ENZO Trading system"
   year_sta:     2018
   year_end:     2022
-  type:         Fintech, crypto
+  type:         Fintech (crypto, trading)
   company:      NEWTYPE
   src:          proj_enzo.md
   id:           enzo-trading-system
@@ -10,7 +10,7 @@
 - title:        "xComp image comparer"
   year_sta:     2022
   year_end:     2022
-  type:         Image processing
+  type:         Image processing (compositing)
   company:      NEWTYPE
   src:          proj_xcomp.md
   id:           xcomp-image-comparer
@@ -18,7 +18,7 @@
 - title:        "3D display for Melarossa health app"
   year_sta:     2022
   year_end:     2022
-  type:         3D visualization, mobile
+  type:         3D visualization (mobile)
   company:      NEWTYPE
   src:          proj_melarossa.md
   id:           melarossa-3d
@@ -26,7 +26,7 @@
 - title:        "XPSVR - Experimental Flight Simulator"
   year_sta:     2017
   year_end:     2018
-  type:         Simulation, VR
+  type:         Simulation and VR
   company:      NEWTYPE
   src:          proj_xpsvr.md
   id:           xpsvr-experimental-flight-simulator
@@ -35,7 +35,7 @@
 - title:        "Fractal Combat X (FCX)"
   year_sta:     2010
   year_end:     2012
-  type:         Mobile game
+  type:         Video game (mobile)
   company:      OYK Games
   src:          proj_fcx.md
   id:           fractal-combat-x
@@ -44,7 +44,7 @@
 - title:        "Final Freeway 2R (FF2)"
   year_sta:     2010
   year_end:     2010
-  type:         Mobile game
+  type:         Video game (mobile)
   company:      OYK Games
   src:          proj_ff2.md
   id:           final-freeway-2r
@@ -53,7 +53,7 @@
 - title:        "RibTools - REYES-style renderer"
   year_sta:     2010
   year_end:     2010
-  type:         Computer graphics, rendering
+  type:         Computer graphics (rendering system)
   company:      Self
   src:          proj_ribtools.md
   id:           ribtools
@@ -62,7 +62,7 @@
 - title:        "Experimental GPGPU engine"
   year_sta:     2008
   year_end:     2010
-  type:         Computer graphics, GPGPU
+  type:         Computer graphics (GPGPU)
   company:      Square Enix
   src:          proj_sqexgpgpu.md
   id:           sqexgpgpu
@@ -70,7 +70,7 @@
 - title:        "Tetris: The Grand Master Ace"
   year_sta:     2005
   year_end:     2005
-  type:         Console game, Xbox 360
+  type:         Video game (Xbox 360)
   company:      Arika
   src:          proj_tgmace.md
   id:           tgmace
@@ -80,7 +80,7 @@
 - title:        "SH-Light 2004"
   year_sta:     2004
   year_end:     2004
-  type:         Computer graphics, lighting
+  type:         Computer graphics (lighting)
   company:      Self
   src:          proj_shlight.md
   id:           shlight
