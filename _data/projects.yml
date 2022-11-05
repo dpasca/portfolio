@@ -111,8 +111,11 @@
   src:          proj_oddworldabe.md
   id:           oddworldabe
   image_local:  "/images/oddworld-abe-s-oddysee-windows-front-cover.jpg"
-- title:        "Other projects WIP"
-  year_sta:     1990
-  year_end:     1990
-  src:          proj_wip.md
-  id:           projects-wip
+- title:        "Battle Arena Toshinden"
+  year_sta:     1995
+  year_end:     1996
+  type:         PC game
+  company:      Digital Dialect
+  src:          proj_toshinden.md
+  id:           toshinden
+  image_local:  "/images/toshinden_tsd-6.png"
