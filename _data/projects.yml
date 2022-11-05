@@ -35,7 +35,7 @@
 - title:        "Fractal Combat X"
   year_sta:     2010
   year_end:     2012
-  type:         Video game (mobile)
+  type:         Mobile game
   company:      OYK Games
   src:          proj_fcx.md
   id:           fractal-combat-x
@@ -44,7 +44,7 @@
 - title:        "Final Freeway 2R"
   year_sta:     2010
   year_end:     2010
-  type:         Video game (mobile)
+  type:         Mobile game
   company:      OYK Games
   src:          proj_ff2.md
   id:           final-freeway-2r
@@ -70,7 +70,7 @@
 - title:        "Tetris: TGM Ace"
   year_sta:     2005
   year_end:     2005
-  type:         Video game (Xbox 360)
+  type:         Console game
   company:      Arika
   src:          proj_tgmace.md
   id:           tgmace
@@ -89,7 +89,7 @@
 - title:        "Final Fantasy VIII"
   year_sta:     1999
   year_end:     2000
-  type:         Video game (Windows)
+  type:         PC game
   company:      SquareSoft
   src:          proj_ff8.md
   id:           ff8
@@ -106,7 +106,7 @@
 - title:        "Abe's Oddysee"
   year_sta:     1996
   year_end:     1997
-  type:         Video game (Windows, MS-DOS)
+  type:         PC game
   company:      Digital Dialect
   src:          proj_oddworldabe.md
   id:           oddworldabe
