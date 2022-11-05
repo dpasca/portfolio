@@ -10,7 +10,7 @@
 - title:        "xComp"
   year_sta:     2022
   year_end:     2022
-  type:         Image processing (compositing)
+  type:         Image processing
   company:      NEWTYPE
   src:          proj_xcomp.md
   id:           xcomp-image-comparer
@@ -18,7 +18,7 @@
 - title:        "3D for Melarossa app"
   year_sta:     2022
   year_end:     2022
-  type:         3D visualization (mobile)
+  type:         3D visualization
   company:      NEWTYPE
   src:          proj_melarossa.md
   id:           melarossa-3d
@@ -53,7 +53,7 @@
 - title:        "RibTools renderer"
   year_sta:     2010
   year_end:     2010
-  type:         Computer graphics (rendering)
+  type:         Computer graphics
   company:      Self
   src:          proj_ribtools.md
   id:           ribtools
@@ -62,7 +62,7 @@
 - title:        "GPGPU engine R&D"
   year_sta:     2008
   year_end:     2010
-  type:         Computer graphics (GPGPU)
+  type:         Computer graphics
   company:      Square Enix
   src:          proj_sqexgpgpu.md
   id:           sqexgpgpu
@@ -80,7 +80,7 @@
 - title:        "SH-Light 2004"
   year_sta:     2004
   year_end:     2004
-  type:         Computer graphics (lighting)
+  type:         Computer graphics
   company:      Self
   src:          proj_shlight.md
   id:           shlight
@@ -98,7 +98,7 @@
 - title:        "PSEmu Pro"
   year_sta:     1997
   year_end:     1999
-  type:         Hardware emulation (console)
+  type:         Hardware emulation
   company:      Vision Thing
   src:          proj_psemu.md
   id:           psemu
