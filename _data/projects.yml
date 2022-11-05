@@ -86,10 +86,10 @@
   id:           shlight
   image_local:  "/images/shlight_2004_01.jpg"
   youtube_id:   9zfx-QgPnz8
-- title:        "Final Fantasy VIII (Windows)"
+- title:        "Final Fantasy VIII"
   year_sta:     1999
   year_end:     2000
-  type:         Video game
+  type:         Video game (Windows)
   company:      SquareSoft
   src:          proj_ff8.md
   id:           ff8
@@ -103,6 +103,14 @@
   src:          proj_psemu.md
   id:           psemu
   image_local:  "/images/psemu_pro_main_ui_1410278686245.jpg"
+- title:        "Oddworld: Abe's Oddysee"
+  year_sta:     1996
+  year_end:     1997
+  type:         Video game (Windows, MS-DOS)
+  company:      Digital Dialect
+  src:          proj_oddworldabe.md
+  id:           oddworldabe
+  image_local:  "/images/oddworld-abe-s-oddysee-windows-front-cover.jpg"
 - title:        "Other projects WIP"
   year_sta:     1990
   year_end:     1990
