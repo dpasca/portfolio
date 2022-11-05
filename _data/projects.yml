@@ -93,7 +93,7 @@
   company:      SquareSoft
   src:          proj_ff8.md
   id:           ff8
-  image_local:  https://www.mobygames.com/images/covers/l/26880-final-fantasy-viii-windows-front-cover.jpg
+  image:        https://www.mobygames.com/images/covers/l/26880-final-fantasy-viii-windows-front-cover.jpg
   image_small:  true
 - title:        "Other projects WIP"
   year_sta:     1990

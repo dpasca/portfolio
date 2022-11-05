@@ -1,5 +1,5 @@
 While employed at [SquareSoft](https://en.wikipedia.org/wiki/Square_(video_game_company)), USA,
-I worked on the Windows port of the **Findal Fantasy VIII** PlayStation game.
+I worked on the Windows port of the **Final Fantasy VIII** PlayStation game.
 
 My main job was that of creating an abstraction layer between the PSX code and SquareSoft's graphics library, which was based on DirectX.
 This drastically reduced porting time, as most code continued to compile as it were on the PlayStation.
