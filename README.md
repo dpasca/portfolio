@@ -54,6 +54,7 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 </tr>
 {% endfor %}
 </tbody>
+</table>
 
 {% for item in site.data.projects %}
 ---
