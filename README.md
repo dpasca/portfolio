@@ -35,11 +35,25 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 ## Projects
 
 {:style="font-size: 90%"}
-| Number   | Year  | Name  | Type  |
-|:--------|:--------|:-------|:---------|
+<table style="font-size: 90%">
+<thead><tr>
+<th style="text-align: left"></th>
+<th style="text-align: left">Year</th>
+<th style="text-align: left">Name</th>
+<th style="text-align: left">Type</th>
+<th style="text-align: left">Company</th>
+</tr></thead>
+<tbody>
 {% for item in site.data.projects %}
-| {{forloop.index}} | {{item.year_end}} | <b><a href="#{{ item.id }}">{{item.title}}</a></b> | {{item.type}} |
+<tr>
+<td style="text-align: left">{{forloop.index}}</td>
+<td style="text-align: left">{{item.year_end}}</td>
+<td style="text-align: left"><b><a href="#{{ item.id }}">{{item.title}}</a></b></td>
+<td style="text-align: left">{{item.type}}</td>
+<td style="text-align: left">{{item.company}}</td>
+</tr>
 {% endfor %}
+</tbody>
 
 {% for item in site.data.projects %}
 ---
