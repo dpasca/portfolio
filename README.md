@@ -8,7 +8,7 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 
 ## Skills Summary
 
-- **C/C++ programmer with 30 years work experience**
+- **C/C++ programmer with 30 years of work experience**
 - Specialized in performance optimization, computer graphics, algorithmic trading, risk management, simulation, system programming, desktop applications and game development
 - Published software on Windows, Linux, MS-DOS, Mac, mobile and game consoles
 - Expert in **real-time 3D graphics**, **OpenGL**, **Direct3D**, software rendering, geometry and animation compression
@@ -48,7 +48,7 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 <tr>
 <td style="text-align: left">{{forloop.index}}</td>
 <td style="text-align: left">{{item.year_end}}</td>
-<td style="text-align: left"><b><a href="#{{ item.id }}">{{item.title}}</a></b></td>
+<td style="text-align: left; font-weight: bold"><a href="#{{ item.id }}">{{item.title}}</a></td>
 <td style="text-align: left">{{item.type}}</td>
 <td style="text-align: left">{{item.company}}</td>
 </tr>

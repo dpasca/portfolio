@@ -98,7 +98,7 @@
 - title:        "PSEmu Pro - PlayStation emulator"
   year_sta:     1997
   year_end:     1999
-  type:         Hardware emulator (console)
+  type:         Hardware emulation (console)
   company:      Vision Thing
   src:          proj_psemu.md
   id:           psemu
