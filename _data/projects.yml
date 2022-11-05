@@ -1,8 +1,8 @@
 - title:        "ENZO Trading system"
   year_sta:     2018
   year_end:     2022
-  type:         Fintech
-  company:      NEWTYPE K.K.
+  type:         Fintech, crypto
+  company:      NEWTYPE
   src:          proj_enzo.md
   id:           enzo-trading-system
   image_local:  "/images/20221017_tsp_with_indicators.png"
@@ -11,23 +11,23 @@
   year_sta:     2022
   year_end:     2022
   type:         Image processing
-  company:      NEWTYPE K.K.
+  company:      NEWTYPE
   src:          proj_xcomp.md
   id:           xcomp-image-comparer
   image:        "https://raw.githubusercontent.com/gugenstudio/xComp/master/apps/docs/xcomp_sshot_01.jpg"
 - title:        "3D display for Melarossa health app"
   year_sta:     2022
   year_end:     2022
-  type:         Computer graphics
-  company:      NEWTYPE K.K.
+  type:         3D visualization, mobile
+  company:      NEWTYPE
   src:          proj_melarossa.md
   id:           melarossa-3d
   image:        "https://www.melarossa.it/wp-content/uploads/2022/06/somatotipo-3d.jpg?x75677"
 - title:        "XPSVR - Experimental Flight Simulator"
   year_sta:     2017
   year_end:     2018
-  type:         Simulation
-  company:      NEWTYPE K.K.
+  type:         Simulation, VR
+  company:      NEWTYPE
   src:          proj_xpsvr.md
   id:           xpsvr-experimental-flight-simulator
   image:        "https://xpsvr.com/wp-content/uploads/2018/04/sshot_180310_045322.jpg"
@@ -36,7 +36,7 @@
   year_sta:     2010
   year_end:     2012
   type:         Mobile game
-  company:      NEWTYPE K.K.
+  company:      OYK Games
   src:          proj_fcx.md
   id:           fractal-combat-x
   image:        "http://oykgames.com/wp-content/uploads/2022/11/fcx_sshot_01_140303_014657_2208x1242.jpg"
@@ -45,7 +45,7 @@
   year_sta:     2010
   year_end:     2010
   type:         Mobile game
-  company:      NEWTYPE K.K.
+  company:      OYK Games
   src:          proj_ff2.md
   id:           final-freeway-2r
   image:        "https://oykgames.com/wp-content/gallery/ff2r_sshots/ff2_05_kate_kenyon_960.png"
@@ -53,7 +53,7 @@
 - title:        "RibTools - REYES-style renderer"
   year_sta:     2010
   year_end:     2010
-  type:         Computer graphics
+  type:         Computer graphics, rendering
   company:      Self
   src:          proj_ribtools.md
   id:           ribtools
@@ -62,7 +62,7 @@
 - title:        "Experimental GPGPU engine"
   year_sta:     2008
   year_end:     2010
-  type:         Computer graphics
+  type:         Computer graphics, GPGPU
   company:      Square Enix
   src:          proj_sqexgpgpu.md
   id:           sqexgpgpu
@@ -70,7 +70,7 @@
 - title:        "Tetris: The Grand Master Ace"
   year_sta:     2005
   year_end:     2005
-  type:         Console game
+  type:         Console game, Xbox 360
   company:      Arika
   src:          proj_tgmace.md
   id:           tgmace
@@ -80,7 +80,7 @@
 - title:        "SH-Light 2004"
   year_sta:     2004
   year_end:     2004
-  type:         Computer graphics
+  type:         Computer graphics, lighting
   company:      Self
   src:          proj_shlight.md
   id:           shlight
