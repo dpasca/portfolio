@@ -10,8 +10,6 @@ Some code still needed fixing, in a few cases due to memory access bugs that did
 
 #### My work on the project
 
-My main tasks were:
-
 - Writing the abstraction layer that simulated PlayStation APIs and hardware on PC
 - Alternative software rendering path for special effect, normally not possible via DirectX
 - Adapt rendering code for the wild variety of graphics accelerators of the era
