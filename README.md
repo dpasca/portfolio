@@ -9,15 +9,18 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 ## Skills Summary
 
 - **C/C++ programmer with 30 years of work experience**
-- Specialized in performance optimization, computer graphics, algorithmic trading, risk management, simulation, system programming, desktop applications and game development
-- Published software on Windows, Linux, MS-DOS, Mac, mobile and game consoles
-- Expert in **real-time 3D graphics**, **OpenGL**, **Direct3D**, software rendering, geometry and animation compression
-- Good knowledge of **image processing and compression** (DCT, Wavelets, zero-tree encoding, progressive encoding)
-- 5 years experience developing an **algorithmic trading systems** from the ground up, with machine-learning optimization, network connectivity, backtesting and reporting
-- Experience writing complete **GUI systems** for desktop, mobile VR and avionics displays
-- Some experience with **REST** API, PHP, **SQL**, Java, Python
-- Some experience with **flight simulation** (flight dynamic models, avionics, auto-pilot, weapon systems)
-- Languages: fluent **English**, native **Italian**, conversational **Japanese**, beginner Russian and Chinese
+- Specialized in performance optimization, computer graphics, game development, algorithmic trading, system programming, desktop applications 
+- Published software on Windows, Linux, MS-DOS, Mac, mobile, game consoles
+- High experience:
+  - **Real-time 3D graphics**, **OpenGL**, **Direct3D**, software rendering, geometry processing
+  - Writing **GUI systems** for desktop, mobile, VR, avionics
+  - **Image processing and compression** (DCT, Wavelets, zero-tree encoding, etc.)
+  - Writing **automated trading systems**, with machine-learning optimization, backtesting, portfolio management, reporting
+- Moderate experience:
+  - **REST**, PHP, **SQL**, Python, Java
+  - **Flight simulation** (flight dynamic models, avionics, auto-pilot, weapon systems)
+- Languages: **Italian** (native), **English** (fluent), **Japanese** (conv.), Russian (beginner), Chinese (beginner)
+
 
 ## Emplyoment History
 
@@ -34,8 +37,7 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 
 ## Projects
 
-{:style="font-size: 90%"}
-<table style="font-size: 90%">
+<table style="font-size: 85%">
 <thead><tr>
 <th style="text-align: left"></th>
 <th style="text-align: left">Year</th>
