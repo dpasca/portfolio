@@ -21,26 +21,25 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 
 ## Emplyoment History
 
-{:style="font-size: 80%"}
+{:style="font-size: 85%"}
 | Start   | End  | Title  | Company  | Location  |
 |:--------|:--------|:-------|:---------|:----------|
 | 2010/11 | Current | Co-founder and CTO | NEWTYPE K.K. | Tokyo, Japan |
 | 2006/11 | 2010/4 | Senior Software Engineer | Square Enix Co., Ltd. | Tokyo, Japan |
 | 2001/8  | 2006/9 | Senior Software Engineer | Arika Co., Ltd. | Tokyo, Japan |
-| 2000/5  | 2000/12 | Senior Software Engineer | Gama Internet Technology USA, Inc. | Costa Mesa, CA, USA |
+| 2000/5  | 2000/12 | Senior Software Engineer | Gama Internet Tech. USA, Inc. | Costa Mesa, CA, USA |
 | 1999/3  | 2000/3 | Software Engineer | SquareSoft, Inc. | Costa Mesa, CA, USA |
 | 1995/9  | 1998/6 | Senior Programmer | Digital Dialect | West Hills, CA, USA |
 | 1990/11 | 1995/8 | Programmer | Tabasoft, s.a.s. | Rome, Italy |
 
 ## Projects
 
-<ol>
-  {% for item in site.data.projects %}
-    <li>
-      <b><a href="#{{ item.id }}">{{ item.year_end }} - {{ item.title }}</a></b>
-    </li>
-  {% endfor %}
-</ol>
+{:style="font-size: 90%"}
+| Number   | Year  | Name  | Type  |
+|:--------|:--------|:-------|:---------|
+{% for item in site.data.projects %}
+| {{forloop.index}} | {{item.year_end}} | <b><a href="#{{ item.id }}">{{item.title}}</a></b> | {{item.type}} |
+{% endfor %}
 
 {% for item in site.data.projects %}
 ---
