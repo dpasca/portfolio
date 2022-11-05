@@ -1,19 +1,18 @@
-In 1997 I started working on the [**PSEmu Pro**](https://handwiki.org/wiki/Software:PSEmu_Pro), the first and most consequential PlayStation emulator.
+In 1997 I started working on the [**PSEmu Pro**](https://handwiki.org/wiki/Software:PSEmu_Pro), the first PlayStation emulator.
 
-**PSEmu Pro** employed a DLL plugin system that allowed for external
-collaboration and that was later on utilized as a base for more modern
-emulators, such as *ePSXe*, hence my claim for **PSEmu Pro** being the most
-consequential of the PlayStation emulators.
+**PSEmu Pro** was possibly also the most consequential of the PSX emulators, due
+to its DLL plugin system that simplified the creation of more modern emulators, such as *ePSXe*.
 
-This was a non-commercial effort, done for the sake of the challenge
-itself.
+Subsequent emulators could focus development on a subset of the hardware, while relying on existing plugins made for the *PSEmu Pro*, to support other key portions of the hardware such the GPU and the GTE.
 
 My initial involvement was writing the [GPU](https://psx-spx.consoledev.net/graphicsprocessingunitgpu/) (Graphics Processing Unit) rendering emulation in software rendering.
-I eventually joined the other two original developers (*Duddie* and *Tratax*), with the *Kazzuya* nickname.
+I eventually joined the other two original developers (*Duddie* and *Tratax*), with the *Kazzuya* nickname, forming the final core team.
 
 Once in the team, I worked on anything necessary, most notably the
 [GTE](https://psx-spx.consoledev.net/geometrytransformationenginegte/) (Geometry Transformation Engine), and [MDEC](https://psx-spx.consoledev.net/macroblockdecodermdec/) (Macroblock Decoder) emulation.  Constantly balancing between performance and accuracy.
 
+This was a non-commercial effort, done for the sake of the challenge
+itself.
 I worked on this in my spare time, coordinating the effort online via IRC (Internet Relay Chat).
 
 #### My work on the project
