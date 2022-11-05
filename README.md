@@ -60,18 +60,10 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 ---
 <h3 id="{{ item.id }}">{{forloop.index}}. {{ item.year_end }} - {{ item.title }}</h3>
     {% if item.image %}
-        {% if item.image_small %}
-![]({{ item.image }}){:width="50%"}
-        {% else %}
-![]({{ item.image }})
-        {% endif %}
+![]({{ item.image }}){% if item.image_small %}{:width="50%"}{% endif %}
     {% endif %}
     {% if item.image_local %}
-        {% if item.image_small %}
-![]({{ site.baseurl }}{{ item.image_local }}){:width="50%"}
-        {% else %}
-![]({{ site.baseurl }}{{ item.image_local }})
-        {% endif %}
+![]({{ site.baseurl }}{{ item.image_local }}){% if item.image_small %}{:width="50%"}{% endif %}
     {% endif %}
     {% if item.youtube_id %}
         {% include youtubeplayer.html id=item.youtube_id %}
