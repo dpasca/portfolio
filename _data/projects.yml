@@ -1,4 +1,4 @@
-- title:        "ENZO Trading system"
+- title:        "ENZO-TS"
   year_sta:     2018
   year_end:     2022
   type:         Fintech (crypto, trading)
@@ -7,7 +7,7 @@
   id:           enzo-trading-system
   image_local:  "/images/20221017_tsp_with_indicators.png"
   youtube_id:   y6S3VVp3NRI
-- title:        "xComp image comparer"
+- title:        "xComp"
   year_sta:     2022
   year_end:     2022
   type:         Image processing (compositing)
@@ -15,7 +15,7 @@
   src:          proj_xcomp.md
   id:           xcomp-image-comparer
   image:        "https://raw.githubusercontent.com/gugenstudio/xComp/master/apps/docs/xcomp_sshot_01.jpg"
-- title:        "3D display for Melarossa health app"
+- title:        "3D for Melarossa app"
   year_sta:     2022
   year_end:     2022
   type:         3D visualization (mobile)
@@ -23,16 +23,16 @@
   src:          proj_melarossa.md
   id:           melarossa-3d
   image:        "https://www.melarossa.it/wp-content/uploads/2022/06/somatotipo-3d.jpg?x75677"
-- title:        "XPSVR - Experimental Flight Simulator"
+- title:        "XPSVR"
   year_sta:     2017
   year_end:     2018
-  type:         Simulation and VR
+  type:         Flight Sim, VR
   company:      NEWTYPE
   src:          proj_xpsvr.md
   id:           xpsvr-experimental-flight-simulator
   image:        "https://xpsvr.com/wp-content/uploads/2018/04/sshot_180310_045322.jpg"
   youtube_id:   vaOgC1fSmk0
-- title:        "Fractal Combat X (FCX)"
+- title:        "Fractal Combat X"
   year_sta:     2010
   year_end:     2012
   type:         Video game (mobile)
@@ -41,7 +41,7 @@
   id:           fractal-combat-x
   image:        "http://oykgames.com/wp-content/uploads/2022/11/fcx_sshot_01_140303_014657_2208x1242.jpg"
   youtube_id:   P4KqQ43CEvU
-- title:        "Final Freeway 2R (FF2)"
+- title:        "Final Freeway 2R"
   year_sta:     2010
   year_end:     2010
   type:         Video game (mobile)
@@ -50,16 +50,16 @@
   id:           final-freeway-2r
   image:        "https://oykgames.com/wp-content/gallery/ff2r_sshots/ff2_05_kate_kenyon_960.png"
   youtube_id:   Uw6Y1KPKclM
-- title:        "RibTools - REYES-style renderer"
+- title:        "RibTools renderer"
   year_sta:     2010
   year_end:     2010
-  type:         Computer graphics (rendering system)
+  type:         Computer graphics (rendering)
   company:      Self
   src:          proj_ribtools.md
   id:           ribtools
   image:        "https://github.com/dpasca/RibTools/raw/master/docs/progress/2010-01-26_killeroo_properly_displaced.png"
   youtube_id:   8vJW1bOeKy8
-- title:        "Experimental GPGPU engine"
+- title:        "GPGPU engine R&D"
   year_sta:     2008
   year_end:     2010
   type:         Computer graphics (GPGPU)
@@ -67,7 +67,7 @@
   src:          proj_sqexgpgpu.md
   id:           sqexgpgpu
   image_local:  "/images/zzz_demo_tv_nhk_program.jpg"
-- title:        "Tetris: The Grand Master Ace"
+- title:        "Tetris: TGM Ace"
   year_sta:     2005
   year_end:     2005
   type:         Video game (Xbox 360)
@@ -95,7 +95,7 @@
   id:           ff8
   image:        https://www.mobygames.com/images/covers/l/26880-final-fantasy-viii-windows-front-cover.jpg
   image_small:  true
-- title:        "PSEmu Pro - PlayStation emulator"
+- title:        "PSEmu Pro"
   year_sta:     1997
   year_end:     1999
   type:         Hardware emulation (console)
@@ -103,7 +103,7 @@
   src:          proj_psemu.md
   id:           psemu
   image_local:  "/images/psemu_pro_main_ui_1410278686245.jpg"
-- title:        "Oddworld: Abe's Oddysee"
+- title:        "Abe's Oddysee"
   year_sta:     1996
   year_end:     1997
   type:         Video game (Windows, MS-DOS)
