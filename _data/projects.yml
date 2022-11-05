@@ -95,6 +95,14 @@
   id:           ff8
   image:        https://www.mobygames.com/images/covers/l/26880-final-fantasy-viii-windows-front-cover.jpg
   image_small:  true
+- title:        "PSEmu Pro - PlayStation emulator"
+  year_sta:     1997
+  year_end:     1999
+  type:         Hardware emulator (console)
+  company:      Vision Thing
+  src:          proj_psemu.md
+  id:           psemu
+  image_local:  "/images/psemu_pro_main_ui_1410278686245.jpg"
 - title:        "Other projects WIP"
   year_sta:     1990
   year_end:     1990
