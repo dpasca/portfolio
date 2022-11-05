@@ -45,23 +45,23 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 {% for item in site.data.projects %}
 ---
 <h3 id="{{ item.id }}">{{forloop.index}}. {{ item.year_end }} - {{ item.title }}</h3>
-  {% if item.image %}
-   {% if item.image_small %}
+    {% if item.image %}
+        {% if item.image_small %}
 ![]({{ item.image }}){:width="50%"}
-   {% else %}
+        {% else %}
 ![]({{ item.image }})
-   {% endif %}
-  {% endif %}
-  {% if item.image_local %}
-   {% if item.image_small %}
+        {% endif %}
+    {% endif %}
+    {% if item.image_local %}
+        {% if item.image_small %}
 ![]({{ site.baseurl }}{{ item.image_local }}){:width="50%"}
-   {% else %}
+        {% else %}
 ![]({{ site.baseurl }}{{ item.image_local }})
-   {% endif %}
-  {% endif %}
-  {% if item.youtube_id %}
-   {% include youtubeplayer.html id=item.youtube_id %}
-  {% endif %}
-  {% include_relative {{ item.src }} %}
+        {% endif %}
+    {% endif %}
+    {% if item.youtube_id %}
+        {% include youtubeplayer.html id=item.youtube_id %}
+    {% endif %}
+    {% include_relative {{ item.src }} %}
 {% endfor %}
 
