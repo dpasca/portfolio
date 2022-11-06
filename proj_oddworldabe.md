@@ -18,6 +18,6 @@ Video decoding had specialized hardware on the PSX, but had to be done with the 
 #### What I learned
 
 - In-depth PlayStation's GPU calls
-- Optimization techniques for 16-bit color rendering on SVGA reoslution
+- Optimization techniques for 16-bit color rendering on SVGA resolution
 - MDEC CODEC definition and implementation
 
