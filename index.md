@@ -16,9 +16,11 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
   - Writing **GUI systems** for desktop, mobile, VR, avionics
   - **Image processing and compression** (DCT, Wavelets, zero-tree encoding, etc.)
   - Writing **automated trading systems**, with machine-learning optimization, backtesting, portfolio management, reporting
+  - Publishing software on major mobile platforms
 - Moderate experience:
   - **REST**, PHP, **SQL**, Python, Java
   - **Flight simulation** (flight dynamic models, avionics, auto-pilot, weapon systems)
+- Ability to manage a small business and to direct and motivate a development team
 - Languages: **Italian** (native), **English** (fluent), **Japanese** (conv.), Russian (beginner), Chinese (beginner)
 
 
