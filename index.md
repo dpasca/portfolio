@@ -6,6 +6,8 @@ I've been developing software and video games since the 90s, always with a focus
 
 I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about algo-trading, sometimes Duolingo lessons or programming.
 
+I can be reached at **dpasca@gmail.com**
+
 ## Skills Summary
 
 - **C/C++ programmer with 30 years of work experience**
