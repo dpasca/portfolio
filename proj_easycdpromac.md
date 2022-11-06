@@ -1,4 +1,4 @@
-In 1993 I worked on the Mac ("Machintosh" at the time) edition of *Easy-CD Pro*, the firsr CD burning software for the Mac.
+In 1993 I worked on the Mac ("Machintosh" at the time) edition of *Easy-CD Pro*, the first CD burning software for the Mac.
 
 Although by the time I've been developing in 'C' on the Mac for a while, this was the first commerical product with a relatively wide reach that I've worked on.
 
@@ -14,7 +14,7 @@ This was also my first experience working with the English language with a nativ
 #### What I learned
 
 - I learned about CD burning software and formats
-- I learned working in the context on an international team
+- I learned working in the context of an international team
 
 
 
