@@ -37,6 +37,9 @@ I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about 
 
 ## Projects
 
+The following list of projects is limited to major milestones or more
+recent products. My professional experience started in 1990, however, the first listed project is from 1994, for the sake of brevity.
+
 <table style="font-size: 85%">
 <thead><tr>
 <th style="text-align: left"></th>
