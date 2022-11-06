@@ -119,14 +119,6 @@
   src:          proj_toshinden.md
   id:           toshinden
   image_local:  "/images/toshinden_tsd-6.png"
-- title:        "Battle Arena Toshinden"
-  year_sta:     1995
-  year_end:     1996
-  type:         PC game
-  company:      Digital Dialect
-  src:          proj_toshinden.md
-  id:           toshinden
-  image_local:  "/images/toshinden_tsd-6.png"
 - title:        "RTMZ"
   year_sta:     1994
   year_end:     1997
@@ -135,3 +127,10 @@
   src:          proj_rtmz.md
   id:           rtmz
   image:        https://github.com/dpasca/rtmz/raw/master/docs/sshot_rtmz_cow_menu.png
+- title:        "Easy-CD Pro"
+  year_sta:     1994
+  year_end:     1994
+  type:         Machintosh application
+  company:      Tabasoft
+  src:          proj_easycdpromac.md
+  id:           easycdpromac
