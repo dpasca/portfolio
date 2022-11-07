@@ -17,7 +17,7 @@ I was the sole developer on this project. The main tasks were:
 - Implementation of a custom shader VM with SIMD opcodes
 - Implementation of a REYES-style micropolygon renderer
 - Flexible SIMD functions to write N-way parallel code
-- Display and debugging infrastrcture in in OpenGL
+- Display and debugging infrastrcture with OpenGL and GLUT
 - Server-client code for distributed rendering
 
 #### What I learned
