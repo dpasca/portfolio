@@ -8,13 +8,13 @@ This was also my first experience working with the English language with a nativ
 
 - I wrote the user interface, including a tree-view of the filesystem
 - Implemented conversion of file names from Mac long format to [ISO 9660](https://en.wikipedia.org/wiki/ISO_9660)
-- Integrated the ISO image
+- Integrated the ISO image engine
 - Various optimizations (file sorting. etc.)
 
 #### What I learned
 
-- I learned about CD burning software and formats
-- I learned working in the context of an international team
+- CD burning software and formats
+- Working in the context of an international team
 
 
 
