@@ -14,7 +14,7 @@
   company:      NEWTYPE
   src:          proj_xcomp.md
   id:           xcomp-image-comparer
-  image:        "https://raw.githubusercontent.com/gugenstudio/xComp/master/apps/docs/xcomp_sshot_01.jpg"
+  image:        "https://raw.githubusercontent.com/gugenstudio/xComp/master/docs/xcomp_sshot_01.jpg"
 - title:        "3D for Melarossa app"
   year_sta:     2022
   year_end:     2022
