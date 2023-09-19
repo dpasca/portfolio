@@ -1,3 +1,5 @@
+---
+---
 In 1993 I worked on the Mac ("Macintosh" at the time) edition of *Easy-CD Pro*, the first CD burning software for the Mac.
 
 Although by the time I've been developing in 'C' on the Mac for a while, this was the first commerical product with a relatively wide reach that I've worked on.

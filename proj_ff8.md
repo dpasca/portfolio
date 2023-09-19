@@ -1,3 +1,5 @@
+---
+---
 While employed at [SquareSoft](https://en.wikipedia.org/wiki/Square_(video_game_company)), USA,
 I worked on the Windows port of the **Final Fantasy VIII** PlayStation game.
 

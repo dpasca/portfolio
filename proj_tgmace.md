@@ -1,3 +1,5 @@
+---
+---
 While employed at [Arika](https://en.wikipedia.org/wiki/Arika), Japan, I worked on ["Tetris: The Grand Master Ace"](https://tetris.wiki/Tetris_The_Grand_Master_Ace), a launch title for *Xbox 360* in Japan.
 
 My involvement was mostly as a system programmer, taking care of the Xbox 360 platform including, rendering engine, network programming, audio engine. At the time we were working on an extra tight schedule to match the Xbox 360 release.

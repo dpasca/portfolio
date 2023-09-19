@@ -1,3 +1,5 @@
+---
+---
 While employed at [Square Enix](https://en.wikipedia.org/wiki/Square_Enix), Japan, I lead the development of a next generation 3D engine capable of optimizing production rendering scenes and reproducing them in real-time with Direct3D and many-core hardware.
 
 The development was built around production-rendering graphics assets for the cut scenes of the **Final Fantasy XIII**.

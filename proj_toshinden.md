@@ -1,3 +1,5 @@
+---
+---
 In 1995 I worked on the PC port (MS-DOS) of [**Battle Arena Toshinden**](https://en.wikipedia.org/wiki/Battle_Arena_Toshinden), a 3D fighting game and early PlayStation title.
 
 For this port, we never received the full source code, so, much of the logic had to be written from scratch. My job was mostly writing the rendering engine, which had to run on regular Intel 486 and Pentium CPUs. I also wrote logic for the camera movement and some LAN network code (no Internet play yet !).

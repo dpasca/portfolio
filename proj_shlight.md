@@ -1,3 +1,5 @@
+---
+---
 A real-time demo that uses Spherical Harmonics (SH) to quickly apply Image Based Lighting (IBL) for diffuse and ambient lighting.
 
 The user can paint on a virtual cube map to freely apply lighting without the limitation of classical light sources.

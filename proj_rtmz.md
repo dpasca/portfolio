@@ -1,3 +1,5 @@
+---
+---
 **RTMZ** (previously RTMX) is a tech demo that I developed in the mid 90s.
 
 The goal for the demo was that of showing off the real-time 3D rendering capabilities that I accumulated in years of personal R&D, as a teenager with a passion for computer graphics and games. Thankfully, this landed my first job in the game industry. Nothing sells like a cool demo.
