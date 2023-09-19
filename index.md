@@ -30,7 +30,7 @@ I can be reached at **dpasca@gmail.com**
 ### Strong Experience
 - **Real-Time 3D Graphics**: OpenGL, Direct3D, Software Rendering, Geometry Processing
 - **Image Processing & Compression**: DCT, Wavelets, Zero-Tree Encoding
-- **Video Games & Simulation Development**: Including physics and AI
+- **Video Games & Simulation Development**: 3D engine, physics, game logic, UI, etc.
 - **Automated Trading Systems**: AI-Based Algorithms, Data Collection, Backtesting, Portfolio Management
 - **GUI Systems**: Desktop, Mobile, VR, Avionics
 - **Mobile Platforms**: Published software on major mobile platforms
@@ -45,7 +45,7 @@ I can be reached at **dpasca@gmail.com**
 
 ### Leadership & Language Skills
 - **Management**: Capable of running a small business and leading a development team
-- **Languages**: Italian (Native), English (Fluent), Japanese (Conversational), Russian & Chinese (Beginner)
+- **Languages**: Italian, English (fluent), Japanese (conversational), Russian & Chinese (beginner)
 
 ## Emplyoment History
 
