@@ -4,29 +4,48 @@
 
 I consider programming computers the ultimate form of exploration and creativity, everything else is secondary. I'm an R&D guy at the core, although I also appreciate publishing products, because it's something that can have a direct impact on people.
 
-I've been developing software and video games since the 90s, always with a focus in low level programming, 3D graphics and game engine development. Since 2018 I've been working mostly on algorithmic trading and created [ENZO-TS](https://www.enzobot.com), a complete trading system for cryptocurrencies.
+I've been developing software and video games since the 90s, always with a focus in low-level programming, **3D graphics** and **game engine development**. Since 2018 I've been working mostly on algorithmic trading with **machine-learning** (neural networks, genetic algorithms), and created [ENZO-TS](https://www.enzobot.com), a complete trading system for cryptocurrencies. 
 
-I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about algo-trading, sometimes Duolingo lessons or programming.
+I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about algo-trading and programming.
 
 I can be reached at **dpasca@gmail.com**
 
+## Quick Links
+- **[ENZO-TS: Cryptocurrency Trading System](https://www.enzobot.com)**
+- **GitHub: [profile](https://github.com/dpasca) / [portfolio](https://github.com/stars/dpasca/lists/portfolio)**
+- **[YouTube: Algo-Trading & Programming](https://www.youtube.com/c/DavidePasca)**
+- **Contact: dpasca@gmail.com**
+
 ## Skills Summary
 
-- **C/C++ programmer with 30 years of work experience**
-- Specialized in performance optimization, computer graphics, game development, algorithmic trading, system programming, desktop applications 
-- Published software on Windows, Linux, MS-DOS, Mac, mobile, game consoles
-- High experience:
-  - **Real-time 3D graphics**, **OpenGL**, **Direct3D**, software rendering, geometry processing
-  - Writing **GUI systems** for desktop, mobile, VR, avionics
-  - **Image processing and compression** (DCT, Wavelets, zero-tree encoding, etc.)
-  - Writing **automated trading systems**, with machine-learning optimization, backtesting, portfolio management, reporting
-  - Publishing software on major mobile platforms
-- Moderate experience:
-  - **REST**, PHP, **SQL**, Python, Java
-  - **Flight simulation** (flight dynamic models, avionics, auto-pilot, weapon systems)
-- Ability to manage a small business and to direct and motivate a development team
-- Languages: **Italian** (native), **English** (fluent), **Japanese** (conv.), Russian (beginner), Chinese (beginner)
+- **C/C++ Programmer with 30+ Years of Experience**
+- Specialized in:
+  - **Performance Optimization**
+  - **Real-Time 3D Graphics**
+  - **Video Game Development**
+  - **Machine Learning & Algorithmic Trading**
+  - **System Programming & Desktop Applications**
+- Platforms: Windows, Linux, MS-DOS, Mac, iOS, Android, Game Consoles
 
+### Strong Experience
+- **Real-Time 3D Graphics**: OpenGL, Direct3D, Software Rendering, Geometry Processing
+- **Image Processing & Compression**: DCT, Wavelets, Zero-Tree Encoding
+- **Video Games & Simulation Development**: Including physics and AI
+- **Automated Trading Systems**: AI-Based Algorithms, Data Collection, Backtesting, Portfolio Management
+- **GUI Systems**: Desktop, Mobile, VR, Avionics
+- **Mobile Platforms**: Published software on major mobile platforms
+
+### Moderate Experience
+- **AI / Machine Learning**: Neural Networks, Neuroevolution, in C++ and Python
+- **Python & ML Libraries**: PyTorch/Libtorch
+- **Flight Simulation**: Flight Dynamics, Avionics, Weapon Systems
+
+### Limited Experience
+- JavaScript, REST, PHP, SQL, Java
+
+### Leadership & Language Skills
+- **Management**: Capable of running a small business and leading a development team
+- **Languages**: Italian (Native), English (Fluent), Japanese (Conversational), Russian & Chinese (Beginner)
 
 ## Emplyoment History
 
