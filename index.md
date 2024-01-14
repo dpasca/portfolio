@@ -6,7 +6,7 @@ I consider programming computers the ultimate form of exploration and creativity
 
 I've been developing software and video games since the 90s, always with a focus in low-level programming, **3D graphics** and **game engine development**. Since 2018 I've been working mostly on algorithmic trading with **machine-learning** (neural networks, genetic algorithms), and created [ENZO-TS](https://www.enzobot.com), a complete trading system for cryptocurrencies. 
 
-I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), mostly about algo-trading and programming.
+I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), where I occasionally post videos about algo-trading and programming.
 
 I can be reached at **dpasca@gmail.com**
 
@@ -18,30 +18,17 @@ I can be reached at **dpasca@gmail.com**
 
 ## Skills Summary
 
-- **C/C++ Programmer with 30+ Years of Experience**
-- Specialized in:
-  - **Performance Optimization**
-  - **Real-Time 3D Graphics**
-  - **Video Game Development**
-  - **Machine Learning & Algorithmic Trading**
-  - **System Programming & Desktop Applications**
-- Platforms: Windows, Linux, MS-DOS, Mac, iOS, Android, Game Consoles
-
-### Strong Experience
-- **Real-Time 3D Graphics**: OpenGL, Direct3D, Software Rendering, Geometry Processing
+- **Software engineer with 30+ Years of Experience**
+- **Performance Optimization**: C/C++, assembly
+- **Fluent in C/C++, Python, JavaScript**
+- **AI / Machine Learning**: neural networks from ground up, PyTorch
+- **Algorithmic Trading**: strategy development, backtesting, portfolio management
+- **Video Game Development**: PC, console, mobile, 3D engine, physics, game logic, UI
+- **Real-Time 3D Graphics**: OpenGL, Direct3D, software rendering
 - **Image Processing & Compression**: DCT, Wavelets, Zero-Tree Encoding
-- **Video Games & Simulation Development**: 3D engine, physics, game logic, UI, etc.
-- **Automated Trading Systems**: AI-Based Algorithms, Data Collection, Backtesting, Portfolio Management
-- **GUI Systems**: Desktop, Mobile, VR, Avionics
-- **Mobile Platforms**: Published software on major mobile platforms
-
-### Moderate Experience
-- **AI / Machine Learning**: Neural Networks, Neuroevolution, in C++ and Python
-- **Python & ML Libraries**: PyTorch/Libtorch
-- **Flight Simulation**: Flight Dynamics, Avionics, Weapon Systems
-
-### Limited Experience
-- JavaScript, REST, PHP, SQL, Java
+- **Flight Simulation**: flight dynamics, avionics, weapon systems
+- **System Programming & Desktop Applications**
+- Platforms: Windows, Linux, MS-DOS, Mac, iOS, Android, Game Consoles
 
 ### Leadership & Language Skills
 - **Management**: Capable of running a small business and leading a development team

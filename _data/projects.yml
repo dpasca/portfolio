@@ -1,3 +1,12 @@
+- title:        "AI Research & Development"
+  year_sta:     2018
+  year_end:     2024
+  type:         AI / Machine Learning
+  company:      NEWTYPE
+  src:          proj_ai-rnd.md
+  id:           ai-rnd
+  image:        "https://raw.githubusercontent.com/dpasca/dpasca-sdl2-template/master/Docs/demo9_sshot.png"
+  youtube_id:   EqpiEg_-PRs
 - title:        "ENZO-TS"
   year_sta:     2018
   year_end:     2022
