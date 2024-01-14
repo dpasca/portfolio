@@ -19,15 +19,16 @@ In late 2023, I developed [ChatAI](https://github.com/dpasca/ChatAI), a virtual 
 The assistant operates as a web app, leveraging *Flask*, *Bootstrap*, and additional external modules for code syntax highlighting and LaTeX rendering.
 
 <div style="display: flex;">
-  <div style="height: 350px; overflow: hidden; width: 40%; margin-right: 20px;">
+  <div style="height: 350px; overflow: hidden; width: 50%; margin-right: 5px;">
     <img src="https://raw.githubusercontent.com/dpasca/ChatAI/master/docs/chatai_sshot_01.webp"
       style="position: relative; top: 0px; width: 100%;" />
   </div>
-  <div style="height: 350px; overflow: hidden; width: 40%;">
+  <div style="height: 350px; overflow: hidden; width: 50%;">
     <img src="https://raw.githubusercontent.com/dpasca/ChatAI/master/docs/chatai_sshot_01.webp"
       style="position: relative; top: -350px; width: 100%;" />
   </div>
 </div>
+<br/>
 
 #### Insights Gained
 
