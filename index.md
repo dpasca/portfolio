@@ -2,19 +2,30 @@
 ---
 # Davide Pasca's programmer portfolio
 
-I consider programming computers the ultimate form of exploration and creativity, everything else is secondary. I'm an R&D guy at the core, although I also appreciate publishing products, because it's something that can have a direct impact on people.
+Programming represents the pinnacle of exploration and creativity for me. I'm deeply involved in R&D, constantly pursuing innovative ideas and technologies. In the years I also found significant satisfaction in developing impactful software, particularly in the realms of gaming and interactive media, used and enjoyed by millions worldwide.
 
-I've been developing software and video games since the 90s, always with a focus in low-level programming, **3D graphics** and **game engine development**. Since 2018 I've been working mostly on algorithmic trading with **machine-learning** (neural networks, genetic algorithms), and created [ENZO-TS](https://www.enzobot.com), a complete trading system for cryptocurrencies. 
+## Career
 
-I have a [YouTube channel](https://www.youtube.com/c/DavidePasca), where I occasionally post videos about algo-trading and programming.
+My current focus is on **AI**, encompassing both the technical depths of **C++ and PyTorch** and the strategic aspects of **Python, LLM APIs, and prompt engineering**. My journey into AI and machine learning began in 2017 with projects in flight simulation, evolving to the development of [ENZO-TS](https://www.enzobot.com), an **algorithmic trading** system for cryptocurrencies.
 
-I can be reached at **dpasca@gmail.com**
+Prior to this, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
+
+## A programmer in 2024
+
+I'm not a terribly nostalgic person, and while I do appreciate how programming used to be, I very much welcomed the benefits recently brought by AI tools such as *ChatGPT* and *Copilot*. I've always wished for more time and more brain power to explore and implement many ideas that I had, and these tools are a giant leap in that direction.
+
+I believe (hope ?) that as much as an equalizer these AI tools are, they will continue to work as a force multiplier, expecially for those of us that have extensive experience in software engineering.
 
 ## Quick Links
-- **[ENZO-TS: Cryptocurrency Trading System](https://www.enzobot.com)**
-- **GitHub: [profile](https://github.com/dpasca) / [portfolio](https://github.com/stars/dpasca/lists/portfolio)**
-- **[YouTube: Algo-Trading & Programming](https://www.youtube.com/c/DavidePasca)**
-- **Contact: dpasca@gmail.com**
+
+|                      |                                           |
+|----------------------|-------------------------------------------|
+| My GitHub            | [profile](https://github.com/dpasca) and [portfolio](https://dpasca.github.io/portfolio) |
+| My Trading System    | [ENZO-TS](https://www.enzobot.com)        |
+| My YouTube channel   | [channel](https://www.youtube.com/c/DavidePasca) |
+| My blog              | [xpsvr.com](https://xpsvr.com)            |
+| Contact              | dpasca@gmail.com                          |
+
 
 ## Skills Summary
 
