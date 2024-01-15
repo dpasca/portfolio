@@ -8,7 +8,7 @@ My native language is Italian 🇮🇹, I'm fluent in English 🇺🇸, decent i
 
 ## Career
 
-My current focus is on **AI**, working both at the low-level working with **C++** and **Python** and **PyTorch**, and at the high level with API interfaces such as **OpenAI's API**.
+My current focus lies in **AI**, balancing between the detailed intricacies of **C++**, **Python**, and **PyTorch** at a low level, and the strategic implementation of high-level API interfaces such as OpenAI's API.
 
 My journey into AI and machine-learning began in 2017 working on the [XPSVR flight sim](https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator), progressing with the development of [ENZO-TS](https://www.enzobot.com), an **algorithmic trading** system for cryptocurrencies.
 
@@ -34,21 +34,21 @@ I believe (hope ?) that as much as an equalizer these AI tools are, they will co
 
 ## Skills Summary
 
-- **Software engineer with 30+ Years of Experience**
+- **Software Engineer with 30+ Years of Experience**
 - **Performance Optimization**: C/C++, assembly
 - **Fluent in C/C++, Python, JavaScript**
-- **AI / Machine Learning**: neural networks from ground up, PyTorch
+- **AI / Machine Learning**: ANN from ground up, PyTorch, OpenAI API
 - **Algorithmic Trading**: strategy development, backtesting, portfolio management
-- **Video Game Development**: PC, console, mobile, 3D engine, physics, game logic, UI
+- **Video Game Development**: 3D engine, physics, game logic, UI
 - **Real-Time 3D Graphics**: OpenGL, Direct3D, software rendering
 - **Image Processing & Compression**: DCT, Wavelets, Zero-Tree Encoding
 - **Flight Simulation**: flight dynamics, avionics, weapon systems
 - **System Programming & Desktop Applications**
-- Platforms: Windows, Linux, MS-DOS, Mac, iOS, Android, Game Consoles
+- Platforms: Windows, Linux, macOS, iOS, Android, Game Consoles
 
 ### Leadership & Language Skills
 - **Management**: Capable of running a small business and leading a development team
-- **Languages**: Italian, English (fluent), Japanese (conversational), Russian & Chinese (beginner)
+- **Languages**: Italian (native), English (fluent), Japanese (conversational)
 
 ## Emplyoment History
 
