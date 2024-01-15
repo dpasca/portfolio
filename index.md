@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 # Davide Pasca's programmer portfolio
 
@@ -43,8 +44,7 @@ I believe (hope ?) that as much as an equalizer these AI tools are, they will co
 - **Real-Time 3D Graphics**: OpenGL, Direct3D, software rendering
 - **Image Processing & Compression**: DCT, Wavelets, Zero-Tree Encoding
 - **Flight Simulation**: flight dynamics, avionics, weapon systems
-- **System Programming & Desktop Applications**
-- Platforms: Windows, Linux, macOS, iOS, Android, Game Consoles
+- Platforms: Windows, Linux, Mac, Web, Mobile, Game Consoles
 
 ### Leadership & Language Skills
 - **Management**: Capable of running a small business and leading a development team
