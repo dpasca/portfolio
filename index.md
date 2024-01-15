@@ -3,6 +3,8 @@ layout: default
 ---
 # Davide Pasca's programmer portfolio
 
+<img src="/images/dav_front_shot_cropped.jpg" alt="Davide Pasca" style="width: 120px; float: right; margin-left: 5px; margin-bottom: 10px; border-radius: 10px; position: relative; top: 20px;"/>
+
 Programming represents the pinnacle of exploration and creativity for me. I'm deeply involved in R&D, constantly pursuing innovative ideas and technologies. In the years I also found significant satisfaction in developing impactful software, particularly in the realms of gaming and interactive media, used and enjoyed by millions worldwide.
 
 My native language is Italian 🇮🇹, I'm fluent in English 🇺🇸, decent in Japanese 🇯🇵, and I can catch some words in Russian 🇷🇺 and Chinese 🇨🇳.
@@ -17,7 +19,7 @@ My journey into AI and machine-learning began in 2017 working on the [XPSVR flig
 
 Prior to this, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
 
-## A programmer in 2024
+## A programmer in 2024 ?
 
 I'm not a terribly nostalgic person, and while I do appreciate how programming used to be, I very much welcomed the benefits recently brought by AI tools such as *ChatGPT* and *Copilot*. I've always wished for more time and more brain power to explore and implement many ideas that I had, and these tools are a giant leap in that direction.
 
