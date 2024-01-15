@@ -30,6 +30,8 @@ The assistant operates as a web app, leveraging *Flask*, *Bootstrap*, and additi
 </div>
 <br/>
 
+[Here](https://github.com/topics/ai?q=user:dpasca) is a list of AI-related projects and experiments I've released as Open Source.
+
 #### Insights Gained
 
 Building a system from simple cases was essential in grasping the core concepts involved.

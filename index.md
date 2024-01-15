@@ -8,9 +8,11 @@ My native language is Italian 🇮🇹, I'm fluent in English 🇺🇸, decent i
 
 ## Career
 
-My current focus is on **AI**, encompassing both the technical depths of **C++ and PyTorch** and the strategic aspects of **Python, LLM APIs, and prompt engineering**.
+My current focus is on **AI**, working both at the low-level working with **C++** and **Python** and **PyTorch**, and at the high level with API interfaces such as **OpenAI's API**.
 
 My journey into AI and machine-learning began in 2017 working on the [XPSVR flight sim](https://dpasca.github.io/portfolio/#xpsvr-experimental-flight-simulator), progressing with the development of [ENZO-TS](https://www.enzobot.com), an **algorithmic trading** system for cryptocurrencies.
+
+[Here](https://github.com/topics/ai?q=user:dpasca) is a list of AI-related projects and experiments I've released as Open Source.
 
 Prior to this, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
 
