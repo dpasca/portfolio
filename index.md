@@ -24,10 +24,10 @@ I believe (hope ?) that as much as an equalizer these AI tools are, they will co
 
 |  Quick Links              |                                           |
 |:--------------------------|:------------------------------------------|
-| 💻 My GitHub Profile      | [profile](https://github.com/dpasca)      |
-| 📚 My GitHub Portfolio    | [portfolio](https://dpasca.github.io/portfolio) |
+| 💻 My GitHub Profile      | [github.com/dpasca](https://github.com/dpasca)      |
+| 📚 My GitHub Portfolio    | [dpasca.github.io/portfolio](https://dpasca.github.io/portfolio) |
 | 📈 My Trading System      | [ENZO-TS](https://www.enzobot.com)        |
-| 📺 My YouTube Channel     | [channel](https://www.youtube.com/c/DavidePasca) |
+| 📺 My YouTube Channel     | [DavidePasca](https://www.youtube.com/c/DavidePasca) |
 | ✍️ My Blog                | [xpsvr.com](https://xpsvr.com)            |
 | 📧 Contact                | dpasca@gmail.com                          |
 
