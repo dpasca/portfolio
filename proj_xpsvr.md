@@ -1,7 +1,7 @@
 ---
 ---
 An experimental flight simulator built to mimic the F-35
-Lighting jet fighter. The project targeted VR for full-immersion.
+Lighting II jet fighter. The project targeted VR for full-immersion.
 
 Avionics display includes the famous 2-screen touch display of the F-35
 and its windowing system that allows to configure the panels and to
@@ -26,7 +26,7 @@ I was the sole developer on this project. The main tasks were:
 - Custom image compression and geometry LOD for the terrain
 - GUI system, customized to simulate the F-35 look and feel
 - Advanced avionics such as TSD (Tactical Situation Display) with moving
-cursor and DAS (Digital Aperture System), the see-throught system
+cursor and DAS (Digital Aperture System), the see-through system
 - Floating HUD simulating Head Mounted Display
 
 #### What I learned

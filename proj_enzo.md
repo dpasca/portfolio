@@ -20,8 +20,8 @@ I developed most of the front-end and trading models in C++. Some of the major t
 
 #### What I learned
 
-- Challanges of building consistently profitable strategies
-- Practical meachine-learning application and techniques to reduce curve fitting
+- Challenges of building consistently profitable strategies
+- Practical machine-learning application and techniques to reduce curve fitting
 - REST API connectivity and crypto exchange protocols
 - Risk and portfolio management techniques
 - Leverage trading and short selling
