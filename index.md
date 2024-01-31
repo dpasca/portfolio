@@ -11,7 +11,7 @@ My native language is Italian 🇮🇹, I'm fluent in English 🇺🇸, decent i
 
 ## Career
 
-My current focus lies in [**AI R&D**](#ai-rnd), working both at the low level with **C++**, **Python**, and **PyTorch**, and at the higher level with LLMs, **OpenAI's API** and **agent-based architectures**.
+My current focus lies in [AI Research & Development](#ai-rnd), working both at the low level with **C++**, **Python**, and **PyTorch**, and at the higher level with LLMs, **OpenAI's API** and **agent-based architectures**.
 
 I've successfully applied **AI / ML** to **financial market forecasting** ([ENZO-TS](#enzo-trading-system)), **autopilot** for airframes ([XPSVR](#xpsvr-experimental-flight-simulator)) and, more recently, **virtual assistants** and **agents** ([ChatAI](https://github.com/dpasca/ChatAI)) running on modern LLMs ([code available](https://github.com/topics/ai?q=user:dpasca) on GitHub)
 

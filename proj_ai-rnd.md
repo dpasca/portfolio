@@ -29,21 +29,11 @@ Function-calling and **prompt-injection** are used to give the assistant a sense
 
 Parallel agents are used to **fact-check the conversation** and provide additional information on the subject being discussed. This approach, while requiring additional token budget, **addresses the hallucination issue** that arises from naive use of an LLM. The increase in reliability for the user is ultimately worth the additional cost, as it **saves time** that the user would otherwise have to spend for manual verification or, worse, risk being completely misinformed.
 
+<img src="https://raw.githubusercontent.com/dpasca/ChatAI/master/docs/chatai_sshot_main_01.webp" width=384>
+
 The assistant operates as a web app, leveraging *Flask*, *Bootstrap*, and additional external modules for code syntax highlighting and LaTeX rendering, but at the core it's a Python application that is adaptable to other platforms.
 
 This is an ongoing project used both for deployment and internal research.
-
-<div style="display: flex;">
-  <div style="height: 350px; overflow: hidden; width: 50%; margin-right: 5px;">
-    <img src="https://raw.githubusercontent.com/dpasca/ChatAI/master/docs/chatai_sshot_01.webp"
-      style="position: relative; top: 0px; width: 100%;" />
-  </div>
-  <div style="height: 350px; overflow: hidden; width: 50%;">
-    <img src="https://raw.githubusercontent.com/dpasca/ChatAI/master/docs/chatai_sshot_01.webp"
-      style="position: relative; top: -350px; width: 100%;" />
-  </div>
-</div>
-<br/>
 
 ##### 4) My Open Sourced AI Projects
 
@@ -57,7 +47,7 @@ In time-series prediction, **Evolution Strategies (ES)** proved effective, parti
 
 In my opinion, time-series prediction might be more challenging for backpropagation due to the chaotic nature of its task and loss-function, which must be carefully designed to avoid local minima and overfitting.
 
-This research also highlighted the profound effects of training data, network architecture, hyperparameters, and **loss function design**. Crafting a loss function is particularly nuanced in trading, where there isn't an universal truth: many suitable outcomes exist, some more relistic than others, when it comes to training a model.
+This research also highlighted the profound effects of training data, network architecture, hyper-parameters, and **loss function design**. Crafting a loss function is particularly nuanced in trading, where there isn't an universal truth: many suitable outcomes exist, some more realistic than others, when it comes to training a model.
 
 Technically, I honed my skills in using **PyTorch** both in Python and C++ (LibTorch), focusing on minimizing CPU-GPU data transfers, crucial for CPU-executed evolutionary strategies.
 
