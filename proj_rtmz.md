@@ -18,7 +18,7 @@ Major features are:
 
 #### My work on the project
 
-- I wrote a rasterizer wih subpixel accuracy
+- I wrote a rasterizer with subpixel accuracy
 - Implemented a materials system, within the limitations of 256 colors
 - Wrote readers for *OBJ*, *3D Studio* and *Videoscape 3D* formats
 - Implemented a cool 3D UI and record+playback system for demo purposes
@@ -27,5 +27,4 @@ Major features are:
 
 - This was the testbed for my early 3D rendering
 - Portions of my 3D library mimicked OpenGL calls, which at the time was not available on PC
-
 

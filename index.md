@@ -5,23 +5,27 @@ layout: default
 
 <img src="images/dav_front_shot_cropped.jpg" alt="Davide Pasca" style="width: 120px; float: right; margin-left: 5px; margin-bottom: 10px; border-radius: 10px; position: relative; top: 20px;"/>
 
-Programming represents the pinnacle of exploration and creativity for me. I'm deeply involved in R&D, constantly pursuing innovative ideas and technologies. In the years I also found significant satisfaction in developing impactful software, particularly in the realms of gaming and interactive media, used and enjoyed by millions worldwide.
+Programming represents the pinnacle of exploration and creativity for me. I'm deeply involved in R&D, constantly pursuing innovative ideas and technologies. Over the years I also found significant satisfaction in developing impactful software, particularly in gaming, interactive media, quantitative trading, and developer tools.
 
-My native language is Italian 🇮🇹, I'm fluent in English 🇺🇸, decent in Japanese 🇯🇵, and I can catch some words in Russian 🇷🇺 and Chinese 🇨🇳.
+I speak Italian, English, Japanese, and occasionally touch on some other languages.
 
 ## Career
 
-My current focus lies in [AI Research & Development](#ai-rnd), working both at the low level with **C++**, **Python**, and **PyTorch**, and at the higher level with LLMs, **OpenAI's API** and **agent-based architectures**.
+My current focus lies in [AI Research & Development](#ai-rnd), AI-native products, and developer tools. I work both at the low level with **C++** and **PyTorch**, and at the higher level with LLM APIs, model routing, tool orchestration, and agent-based architectures.
 
-I've successfully applied **AI / ML** to **financial market forecasting** ([ENZO-TS](#enzo-trading-system)), **autopilot** for airframes ([XPSVR](#xpsvr-experimental-flight-simulator)) and, more recently, **virtual assistants** and **agents** ([ChatAI](https://github.com/dpasca/ChatAI)) running on modern LLMs ([code available](https://github.com/topics/ai?q=user:dpasca) on GitHub)
+I am actively developing my own AI-based IDE called [Little Control Room](#little-control-room). I believe that the ability to rapidly develop tools for development is essential to accelerating productivity. It has the potential to build a competitive hedge and to future-proof this business by building alternative solutions, rather than relying on a single LLM provider.
 
-Prior to AI, I dedicated over two decades to **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
+Before the new AI wave that started with ChatGPT, I've successfully applied **AI / ML** to **financial market forecasting** ([ENZO-TS](#enzo-trading-system)) and **autopilot** for airframes ([XPSVR](#xpsvr-experimental-flight-simulator)).
 
-## A programmer in 2024 ?
+Since the mid-90s I've been working on **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
 
-I'm not a terribly nostalgic person, and while I do appreciate how programming used to be, I very much welcomed the benefits recently brought by AI tools such as *ChatGPT* and *Copilot*. I've always wished for more time and more brain power to explore and implement many ideas that I had, and these tools are a giant leap in that direction.
+## Programming in the AI era
 
-I believe (hope ?) that as much as an equalizer these AI tools are, they will continue to work as a force multiplier, expecially for those of us that have extensive experience in software engineering.
+I'm not a terribly nostalgic person, and while I do appreciate how programming used to be and the personal benefits I received from doing it manually, I also realize that my passion for technology and the will to build more and better is stronger than the pure activity of writing code. Writing code itself has changed a lot over the years, from the daunting task of writing terse assembly code trying to shave every cycle to high-level languages and package systems that allow for rapid development of fairly complex applications.
+
+LLMs as they are today in 2026 have completely revolutionized the process, although having a strong foundation as a software engineer is still essential to build robust products.
+
+Recent projects such as **AskMei.ai**, **Little Control Room**, and **Fractal Strike** are fully developed with AI tools as a normal part of the engineering process. They are built with programming languages that I have never formally learned, but that now feel less like barriers and more like abstraction layers over the process of development.
 
 |  Quick Links              |                                           |
 |:--------------------------|:------------------------------------------|
@@ -37,20 +41,21 @@ I believe (hope ?) that as much as an equalizer these AI tools are, they will co
 
 - **Software Engineer with 30+ Years of Experience**
 - **Performance Optimization**: C/C++, assembly
-- **Fluent in C/C++, Python, JavaScript**
-- **AI / Machine Learning**: ANN from ground up, PyTorch, OpenAI API
+- **AI / Machine Learning**: neural networks from the ground up, PyTorch, LLMs via APIs
+- **AI Product Development**: assistants, agentic workflows, memory systems, image generation, developer tools
 - **Algorithmic Trading**: strategy development, backtesting, portfolio management
 - **Video Game Development**: 3D engine, physics, game logic, UI
 - **Real-Time 3D Graphics**: OpenGL, Direct3D, software rendering
 - **Image Processing & Compression**: DCT, Wavelets, Zero-Tree Encoding
 - **Flight Simulation**: flight dynamics, avionics, weapon systems
-- Platforms: Windows, Linux, Mac, Web, Mobile, Game Consoles
+- Platforms: desktop, mobile, consoles
 
 ### Leadership & Language Skills
-- **Management**: Capable of running a small business and leading a development team
-- **Languages**: Italian (native), English (fluent), Japanese (conversational)
 
-## Emplyoment History
+- **Management**: Capable of running a small business and leading a development team
+- **Languages**: Italian, Japanese, English
+
+## Employment History
 
 {:style="font-size: 85%"}
 | Start   | End  | Title  | Company  | Location  |
@@ -93,14 +98,13 @@ recent products. My professional experience started in 1990, however, the first 
 ---
 <h3 id="{{ item.id }}">{{forloop.index}}. {{ item.year_end }} - {{ item.title }}</h3>
 {% if item.image %}
-![]({{ item.image }}){% if item.image_small %}{:width="50%"}{% endif %}
+![{{ item.title }} screenshot]({{ item.image }}){% if item.image_small %}{:width="50%"}{% endif %}
 {% endif %}
 {% if item.image_local %}
-![]({{ site.baseurl }}{{ item.image_local }}){% if item.image_small %}{:width="50%"}{% endif %}
+![{{ item.title }} screenshot]({{ site.baseurl }}{{ item.image_local }}){% if item.image_small %}{:width="50%"}{% endif %}
 {% endif %}
 {% if item.youtube_id %}
   {% include youtubeplayer.html id=item.youtube_id %}
 {% endif %}
 {% include_relative {{ item.src }} %}
 {% endfor %}
-

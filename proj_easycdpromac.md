@@ -2,7 +2,7 @@
 ---
 In 1993 I worked on the Mac ("Macintosh" at the time) edition of *Easy-CD Pro*, the first CD burning software for the Mac.
 
-Although by the time I've been developing in 'C' on the Mac for a while, this was the first commerical product with a relatively wide reach that I've worked on.
+Although by that time I had been developing in 'C' on the Mac for a while, this was the first commercial product with a relatively wide reach that I worked on.
 
 This was also my first experience working with the English language with a native speaker, when the programmer for the ISO image engine (originally built on a Sun workstation !) came to Rome to help us integrate his engine into the product.
 
@@ -17,6 +17,5 @@ This was also my first experience working with the English language with a nativ
 
 - CD burning software and formats
 - Working in the context of an international team
-
 
 

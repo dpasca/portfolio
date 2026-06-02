@@ -1,6 +1,6 @@
 ---
 ---
-While employed at [Square Enix](https://en.wikipedia.org/wiki/Square_Enix), Japan, I lead the development of a next generation 3D engine capable of optimizing production rendering scenes and reproducing them in real-time with Direct3D and many-core hardware.
+While employed at [Square Enix](https://en.wikipedia.org/wiki/Square_Enix), Japan, I led the development of a next generation 3D engine capable of optimizing production rendering scenes and reproducing them in real-time with Direct3D and many-core hardware.
 
 The development was built around production-rendering graphics assets for the cut scenes of the **Final Fantasy XIII**.
 Those cut scenes were originally meant to be played only as movie clips. Our job was that of playing back those same scenes in a real-time 3D engine, regardless of the complexity of the original assets.
@@ -15,7 +15,7 @@ Rendering was performed with Direct3D 10. Compression used lossy approaches base
 
 I was the lead engineer on the runtime portion of the project. My main tasks were:
 
-- Research & Develop new technology to handle massive production-rendering assets in real-time
+- Researching and developing new technology to handle massive production-rendering assets in real-time
 - Writing the runtime rendering engine in Direct3D
 - Writing custom GPGPU-friendly CODECs for texture and 3D geometry compression and streaming
 - Working with hardware manufacturers to optimize graphics drivers

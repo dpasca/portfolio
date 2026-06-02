@@ -1,6 +1,37 @@
+- title:        "AskMei.ai"
+  year_sta:     2025
+  year_end:     2026
+  type:         AI assistant
+  company:      NEWTYPE
+  src:          proj_askmei.md
+  id:           askmei-ai
+- title:        "Little Control Room"
+  year_sta:     2026
+  year_end:     2026
+  type:         AI development tool
+  company:      Self
+  src:          proj_little-control-room.md
+  id:           little-control-room
+- title:        "Fractal Strike"
+  year_sta:     2025
+  year_end:     2026
+  type:         AI-made game
+  company:      OYK Games
+  src:          proj_fractal-strike.md
+  id:           fractal-strike
+  image_local:  "/images/fractal-strike-store-01.jpg"
+  image_small:  true
+- title:        "RogueLLM"
+  year_sta:     2025
+  year_end:     2026
+  type:         AI roguelike
+  company:      Self
+  src:          proj_roguellm.md
+  id:           rogue-llm
+  image_local:  "/images/roguellm-sshot-01.png"
 - title:        "AI Research & Development"
   year_sta:     2018
-  year_end:     2024
+  year_end:     2026
   type:         AI / Machine Learning
   company:      NEWTYPE
   src:          proj_ai-rnd.md
@@ -139,7 +170,7 @@
 - title:        "Easy-CD Pro"
   year_sta:     1994
   year_end:     1994
-  type:         Machintosh application
+  type:         Macintosh application
   company:      Tabasoft
   src:          proj_easycdpromac.md
   id:           easycdpromac

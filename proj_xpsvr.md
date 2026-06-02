@@ -17,7 +17,7 @@ See more details on the [XPSVR's blog](https://xpsvr.com/tag/flightsim).
 
 I was the sole developer on this project. The main tasks were:
 
-- Writing the game engine responsible based on OpenGL and OpenAL
+- Writing the game engine based on OpenGL and OpenAL
 - Physically Based shaders, IBL and CSM (Cascaded Shadow Maps)
 - Underlying rigid-body physics engine
 - Flight model for the airplane and missiles
@@ -38,4 +38,3 @@ Navigation, etc.)
 - Building avionic displays
 - The F-35 user interface
 - Use of CSM for large terrains
-

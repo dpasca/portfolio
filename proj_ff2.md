@@ -6,8 +6,8 @@ An arcade driving game for mobile with over 1M downloads.
 arcade racing game for mobile phones that has reached a wide
 distribution across multiple markets around the world.
 
-It's built with and in-house game engine which I developed in C++ on top of
-OpenGL ES. The game featues an unconventional presentation, common in the arcades of the 80s and early 90s.
+It's built with an in-house game engine which I developed in C++ on top of
+OpenGL ES. The game features an unconventional presentation, common in the arcades of the 80s and early 90s.
 
 #### My work on the project
 
@@ -26,4 +26,3 @@ I was the sole developer on this project except for the Android platform. The ma
 - OpenGL ES optimization for various mobile targets
 - API interfaces for various advertisement platforms
 - Publishing and promotion of mobile games
-

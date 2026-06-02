@@ -8,7 +8,7 @@ This tool was built to visualize region updates of a render on top of previous r
 
 I was the sole developer on this project. The main tasks were:
 
-- Setting up an multi-platform UI infrastructure with Dear ImGui and GLFW
+- Setting up a multi-platform UI infrastructure with Dear ImGui and GLFW
 - Implementation and use of OpenEXR and OpenColorIO
 - Image compositing with alpha blending and resampling
 - UI to manage EXR layers and masks
@@ -16,4 +16,3 @@ I was the sole developer on this project. The main tasks were:
 #### What I learned
 
 - Build and usage of OpenEXR and OpenColorIO
-
