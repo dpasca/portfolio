@@ -31,7 +31,7 @@ Recent projects such as **AskMei.ai**, **Little Control Room**, and **Fractal St
 |:--------------------------|:------------------------------------------|
 | 💻 My GitHub Profile      | [github.com/dpasca](https://github.com/dpasca)      |
 | 📚 My GitHub Portfolio    | [dpasca.github.io/portfolio](https://dpasca.github.io/portfolio) |
-| 📈 My Trading System      | [ENZO-TS](https://www.enzobot.com)        |
+| 𝕏 My X Profile           | [@109mae](https://x.com/109mae)           |
 | 📺 My YouTube Channel     | [DavidePasca](https://www.youtube.com/c/DavidePasca) |
 | ✍️ My Blog                | [xpsvr.com](https://xpsvr.com)            |
 | 📧 Contact                | dpasca@gmail.com                          |
