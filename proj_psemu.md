@@ -1,6 +1,4 @@
----
----
-In 1997 I started working on the [**PSEmu Pro**](https://handwiki.org/wiki/Software:PSEmu_Pro), the first PlayStation emulator.
+In 1997 I started working on the **PSEmu Pro**, the first PlayStation emulator.
 
 **PSEmu Pro** was possibly also the most consequential of the PSX emulators, due
 to its DLL plugin system that simplified the creation of more modern emulators, such as *ePSXe*.

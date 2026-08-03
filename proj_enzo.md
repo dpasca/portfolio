@@ -1,5 +1,3 @@
----
----
 A complete trading system for cryptocurrencies. See [www.enzobot.com](https://www.enzobot.com).
 
 #### My work on the project

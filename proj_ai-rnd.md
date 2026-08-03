@@ -1,5 +1,3 @@
----
----
 This section summarizes the AI and machine-learning work that connects several of the newer projects listed above.
 
 - Financial market forecasting using artificial neural networks

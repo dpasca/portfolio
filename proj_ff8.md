@@ -1,5 +1,3 @@
----
----
 While employed at [SquareSoft](https://en.wikipedia.org/wiki/Square_(video_game_company)), USA,
 I worked on the Windows port of the **Final Fantasy VIII** PlayStation game.
 
@@ -7,8 +5,6 @@ My main job was that of creating an abstraction layer between the PSX code and S
 This drastically reduced porting time, as most code continued to compile as it did on the PlayStation.
 
 Some code still needed fixing, in a few cases due to memory access bugs that did not appear on the original platform, due to lack of an MMU unit in the first PlayStation.
-
-![]({{ site.baseurl }}/images/ff8_korean_mag_kp150_cut.jpg)
 
 #### My work on the project
 

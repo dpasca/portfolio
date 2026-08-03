@@ -1,5 +1,6 @@
 ---
 layout: default
+image: /images/oversweep-terrain-pass.jpg
 ---
 # Davide Pasca's programmer portfolio
 
@@ -15,6 +16,8 @@ My current focus lies in [AI Research & Development](#ai-rnd), AI-native product
 
 I am actively developing my own AI-based IDE called [Little Control Room](#little-control-room). I believe that the ability to rapidly develop tools for development is essential to accelerating productivity. It has the potential to build a competitive hedge and to future-proof this business by building alternative solutions, rather than relying on a single LLM provider.
 
+That tooling now drives [OVERSWEEP](#oversweep), a commercial combat flight game in **C++** and **Vulkan** that I am building solo. It joins the flight-simulation know-how I built on [XPSVR](#xpsvr-experimental-flight-simulator) to agent-assisted development, and its rate of progress is my most honest measure of how quickly AI tooling is actually improving.
+
 Before the new AI wave that started with ChatGPT, I've successfully applied **AI / ML** to **financial market forecasting** ([ENZO-TS](#enzo-trading-system)) and **autopilot** for airframes ([XPSVR](#xpsvr-experimental-flight-simulator)).
 
 Since the mid-90s I've been working on **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
@@ -26,6 +29,8 @@ I'm not a terribly nostalgic person, and while I do appreciate how programming u
 LLMs as they are today in 2026 have completely revolutionized the process, although having a strong foundation as a software engineer is still essential to build robust products.
 
 Recent projects such as **AskMei.ai**, **Little Control Room**, and **Fractal Strike** are fully developed with AI tools as a normal part of the engineering process. They are built with programming languages that I have never formally learned, but that now feel less like barriers and more like abstraction layers over the process of development.
+
+**OVERSWEEP** is the counterpart experiment. It is C++ and Vulkan, in a domain I have worked in for decades, so the gain there is not crossing a language barrier but compressing what used to be years of engine and simulation work into months. The engineering judgement, rather than the typing, is the part that still has to be mine.
 
 |  Quick Links              |                                           |
 |:--------------------------|:------------------------------------------|
@@ -40,7 +45,7 @@ Recent projects such as **AskMei.ai**, **Little Control Room**, and **Fractal St
 ## Skills Summary
 
 - **Software Engineer with 30+ Years of Experience**
-- **Performance Optimization**: C/C++, assembly
+- **Performance Optimization**: C/C++, assembly, SIMD, multi-threading, GPGPU
 - **AI / Machine Learning**: neural networks from the ground up, PyTorch, LLMs via APIs
 - **AI Product Development**: assistants, agentic workflows, memory systems, image generation, developer tools
 - **Algorithmic Trading**: strategy development, backtesting, portfolio management
@@ -48,7 +53,7 @@ Recent projects such as **AskMei.ai**, **Little Control Room**, and **Fractal St
 - **Real-Time 3D Graphics**: OpenGL, Direct3D, software rendering
 - **Image Processing & Compression**: DCT, Wavelets, Zero-Tree Encoding
 - **Flight Simulation**: flight dynamics, avionics, weapon systems
-- Platforms: desktop, mobile, consoles
+- **Platforms**: desktop, mobile, consoles
 
 ### Leadership & Language Skills
 
@@ -95,13 +100,17 @@ recent products. My professional experience started in 1990, however, the first 
 </table>
 
 {% for item in site.data.projects %}
+{% if item.year_end < 2017 and earlier_work_shown != true %}
+{% assign earlier_work_shown = true %}
+## Earlier work
+{% endif %}
 ---
 <h3 id="{{ item.id }}">{{forloop.index}}. {{ item.year_end }} - {{ item.title }}</h3>
 {% if item.image %}
-![{{ item.title }} screenshot]({{ item.image }}){% if item.image_small %}{:width="50%"}{% endif %}
+![{{ item.title }} screenshot]({{ item.image }}){:loading="lazy"}{% if item.image_small %}{:width="50%"}{% endif %}
 {% endif %}
 {% if item.image_local %}
-![{{ item.title }} screenshot]({{ site.baseurl }}{{ item.image_local }}){% if item.image_small %}{:width="50%"}{% endif %}
+![{{ item.title }} screenshot]({{ site.baseurl }}{{ item.image_local }}){:loading="lazy"}{% if item.image_small %}{:width="50%"}{% endif %}
 {% endif %}
 {% if item.youtube_id %}
   {% include youtubeplayer.html id=item.youtube_id %}

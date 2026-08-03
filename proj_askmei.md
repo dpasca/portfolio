@@ -1,5 +1,3 @@
----
----
 [AskMei.ai](https://askmei.ai) is a modern AI assistant built on the ChatNext3 platform. It combines multi-model LLM routing, live web search, image generation, memory, file and vision support, and a friendly skeuomorphic interface into a single web/PWA experience.
 
 The system is designed as a multi-instance platform: the same codebase can ship different branded assistants with their own prompts, visual identity, model choices, pricing, rewards, and deployment settings.
@@ -8,11 +6,11 @@ AskMei was developed with modern AI coding tools as part of the everyday enginee
 
 <div class="project-gallery project-gallery--two project-gallery--portrait">
   <figure>
-    <img src="{{ site.baseurl }}/images/askmei-chat-portrait.jpg" alt="AskMei mobile chat interface">
+    <img loading="lazy" src="{{ site.baseurl }}/images/askmei-chat-portrait.jpg" alt="AskMei mobile chat interface">
     <figcaption>Regular chat interface in the Spring Canopy theme.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/images/askmei-home-hero-portrait.jpg" alt="AskMei home page hero artwork">
+    <img loading="lazy" src="{{ site.baseurl }}/images/askmei-home-hero-portrait.jpg" alt="AskMei home page hero artwork">
     <figcaption>Mei's warm visual identity for the public-facing experience.</figcaption>
   </figure>
 </div>

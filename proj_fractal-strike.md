@@ -1,5 +1,3 @@
----
----
 Fractal Strike is a mech combat game built with Phaser, TypeScript, Vite, Capacitor, and Electron. It targets web, mobile, and desktop, with arcade survival gameplay, adaptive controls, store-ready screenshots, and a sci-fi campaign structure.
 
 This was an AI-first production: code, art direction, terrain and story assets, copy, localization checks, QA scripts, store capture pipelines, and release tooling were developed through iterative AI-assisted workflows under my direction.

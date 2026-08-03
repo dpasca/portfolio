@@ -1,3 +1,12 @@
+- title:        "OVERSWEEP"
+  year_sta:     2026
+  year_end:     2026
+  type:         Flight combat game
+  company:      OYK Games
+  src:          proj_oversweep.md
+  id:           oversweep
+  image_local:  "/images/oversweep-terrain-pass.jpg"
+  youtube_id:   Z8aGJU-LmPc
 - title:        "AskMei.ai"
   year_sta:     2025
   year_end:     2026
@@ -70,7 +79,7 @@
   company:      NEWTYPE
   src:          proj_xpsvr.md
   id:           xpsvr-experimental-flight-simulator
-  image:        "https://xpsvr.com/wp-content/uploads/2018/04/sshot_180310_045322.jpg"
+  image_local:  "/images/xpsvr-avionics-panel.jpg"
   youtube_id:   vaOgC1fSmk0
 - title:        "Fractal Combat X"
   year_sta:     2010
@@ -79,7 +88,7 @@
   company:      OYK Games
   src:          proj_fcx.md
   id:           fractal-combat-x
-  image:        "http://oykgames.com/wp-content/uploads/2022/11/fcx_sshot_01_140303_014657_2208x1242.jpg"
+  image:        "https://oykgames.com/wp-content/uploads/2022/11/fcx_sshot_01_140303_014657_2208x1242.jpg"
   youtube_id:   P4KqQ43CEvU
 - title:        "Final Freeway 2R"
   year_sta:     2010
@@ -133,8 +142,7 @@
   company:      SquareSoft
   src:          proj_ff8.md
   id:           ff8
-  image:        https://www.mobygames.com/images/covers/l/26880-final-fantasy-viii-windows-front-cover.jpg
-  image_small:  true
+  image_local:  "/images/ff8_korean_mag_kp150_cut.jpg"
 - title:        "PSEmu Pro"
   year_sta:     1997
   year_end:     1999

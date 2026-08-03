@@ -1,5 +1,3 @@
----
----
 An experimental flight simulator built to mimic the F-35
 Lighting II jet fighter. The project targeted VR for full-immersion.
 
@@ -11,7 +9,10 @@ Rendering is performed with the OYK Game's rendering engine which I
 originally wrote for mobile games, and that I later expanded for PC GPUs
 and OpenGL 4.5.
 
-See more details on the [XPSVR's blog](https://xpsvr.com/tag/flightsim).
+See more details on the [XPSVR's blog](https://xpsvr.com).
+
+The flight dynamics, guidance, and avionics knowledge from this project is what
+[OVERSWEEP](#oversweep) is built on today.
 
 #### My work on the project
 

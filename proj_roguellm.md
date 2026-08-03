@@ -1,5 +1,3 @@
----
----
 RogueLLM is an experimental roguelike that combines traditional dungeon crawling with LLM-generated worlds. The player can request almost any setting, from a one-word theme to a detailed premise, and the system generates locations, enemies, items, and narrative flavor around that theme.
 
 The current gameplay focuses on exploration, combat, equipment, and inventory management, with generated world descriptions and events providing the texture around the mechanics.

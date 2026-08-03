@@ -1,6 +1,4 @@
----
----
-[Little Control Room](https://github.com/dpasca/LittleControlRoom) is a terminal-first control center for my AI-heavy development workflow. It keeps work across many repositories, agent sessions, TODOs, diffs, and project runtimes in one place. It is now the main tool I use to develop and coordinate my other projects, including AskMei.ai, Fractal Strike, and RogueLLM.
+[Little Control Room](https://github.com/dpasca/LittleControlRoom) is a terminal-first control center for my AI-heavy development workflow. It keeps work across many repositories, agent sessions, TODOs, diffs, and project runtimes in one place. It is now the main tool I use to develop and coordinate my other projects, including AskMei.ai, Fractal Strike, and RogueLLM. Its heaviest user is [OVERSWEEP](#oversweep), where many concurrent worktrees, agent sessions, and runtimes run against one codebase at once.
 
 One of my main lessons from using AI agents is to use them to build better tools for the way we work. Personal tools remove very specific friction and keep more of the workflow under my control when a vendor changes direction. LCR therefore works with Codex, Claude Code, and OpenCode rather than being designed around a single provider or harness.
 
@@ -10,11 +8,11 @@ That exposes the less visible challenges of agent engineering: choosing and comp
 
 <div class="project-gallery project-gallery--two project-gallery--wide">
   <figure>
-    <img src="{{ site.baseurl }}/images/lcr-main-panel-live-runtime.jpg" alt="Little Control Room dashboard with project status and runtime pane">
+    <img loading="lazy" src="{{ site.baseurl }}/images/lcr-main-panel-live-runtime.jpg" alt="Little Control Room dashboard with project status and runtime pane">
     <figcaption>Main dashboard with project status, attention signals, and a managed runtime pane.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/images/lcr-codex-embedded-fresh.jpg" alt="Little Control Room embedded Codex session">
+    <img loading="lazy" src="{{ site.baseurl }}/images/lcr-codex-embedded-fresh.jpg" alt="Little Control Room embedded Codex session">
     <figcaption>Embedded Codex session with local context, diffs, commands, and activity visible.</figcaption>
   </figure>
 </div>

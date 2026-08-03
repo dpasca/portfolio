@@ -142,6 +142,20 @@ header h2 {
   margin: 5px 0 16px;
 }
 
+.embed-container {
+  border-radius: 8px;
+  margin: 5px 0 22px;
+  overflow: hidden;
+}
+
+.embed-container iframe {
+  aspect-ratio: 16 / 9;
+  border: 0;
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
 .project-gallery {
   display: grid;
   gap: 14px;
@@ -179,6 +193,10 @@ header h2 {
   aspect-ratio: 4 / 3;
   background: #050607;
   object-fit: contain;
+}
+
+.project-gallery--cinema img {
+  aspect-ratio: 16 / 9;
 }
 
 .project-gallery figcaption {
