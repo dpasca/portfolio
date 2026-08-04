@@ -4,7 +4,7 @@ The project stands directly on [XPSVR](#xpsvr-experimental-flight-simulator). Th
 
 The other half is working effectively with AI agents. [Little Control Room](#little-control-room) is the tool I built for that, and OVERSWEEP is its heaviest user: many concurrent worktrees, agent sessions, runtimes, and review loops on a single project, coordinated from one place. Experience decides *what* to build and what "correct" means; the agents and LCR decide how quickly a decision becomes working, tested code.
 
-That pairing is the ambition of the project. A flight simulator is an unreasonable thing to build alone at this pace, which is exactly what makes it a useful instrument: it is a real commercial product with real acceptance criteria, so the rate at which it improves is an honest reading of how fast AI tooling is genuinely getting better. Not a benchmark, a shipping deadline. The first commit is dated 12 July 2026. I expect that rate to keep rising, and this is where I will see it.
+That pairing is the goal of the project, and also the reason why I was willing to undertake it. A flight simulator can be a very demanding project, because there is almost no end to realism and it's very easy to get lost in a myriad of details, many of which require careful research. Without advanced AI tooling, this would be too time consuming for an individual with little free time.
 
 #### The cockpit is a text file
 
