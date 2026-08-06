@@ -88,7 +88,7 @@
   company:      OYK Games
   src:          proj_fcx.md
   id:           fractal-combat-x
-  image:        "https://oykgames.com/wp-content/uploads/2022/11/fcx_sshot_01_140303_014657_2208x1242.jpg"
+  image_local:  "/images/fractal-combat-x-gameplay.jpg"
   youtube_id:   P4KqQ43CEvU
 - title:        "Final Freeway 2R"
   year_sta:     2010
@@ -97,7 +97,7 @@
   company:      OYK Games
   src:          proj_ff2.md
   id:           final-freeway-2r
-  image:        "https://oykgames.com/wp-content/gallery/ff2r_sshots/ff2_05_kate_kenyon_960.png"
+  image_local:  "/images/final-freeway-2r-gameplay.jpg"
   youtube_id:   Uw6Y1KPKclM
 - title:        "RibTools renderer"
   year_sta:     2010

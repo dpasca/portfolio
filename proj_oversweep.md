@@ -8,9 +8,9 @@ That pairing is the goal of the project, and also the reason why I was willing t
 
 #### The cockpit is a text file
 
-Every panel, console, instrument frame, canopy arch, and switch body is declared in a readable text description (boxes, lofts, tapered masses, elliptical arcs, materials, mirroring, repetition, articulation) which the build parses and turns into a mesh. No modelling package sits in the loop and no artist sits on the critical path. Widening the canopy arch is one edit to a radius rather than a recomputed point table, and the shell rebuilds in place inside a running developer workbench, where primitives can be nudged and committed back to the source without reformatting it.
+Every panel, instrument frame, canopy arch, and switch is declared in a readable text description of boxes, lofts, arcs, materials, mirroring, and articulation. The build turns it into a mesh, while a live workbench lets me nudge primitives and write changes back without reformatting the source. Changing a canopy radius is therefore one edit, not a remodel. The shell rebuilds in place, so the effect is visible immediately without a modelling package in the loop.
 
-Everything derived from that geometry is computed rather than painted: smoothing, a short-range contact-occlusion bake, and a mid-frequency wear and grime atlas. None of it can go stale when a primitive moves. The pilot's own hands, arms, and legs are procedural too, posed from the same fitted anchors, so moving a throttle grip moves the hand holding it. The practical result is that cockpits are modular: a second aircraft is a second description, not a second art contract.
+Smoothing, contact occlusion, wear, and grime are regenerated from the geometry, so they cannot go stale. The procedural pilot is posed from the same fitted anchors: move a throttle and the hand follows. A second aircraft becomes another modular description rather than another modelling pipeline.
 
 <div class="project-gallery project-gallery--two project-gallery--cinema">
   <figure>
