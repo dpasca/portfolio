@@ -12,25 +12,27 @@ I speak Italian, English, Japanese, and occasionally touch on some other languag
 
 ## Career
 
-My current focus lies in [AI Research & Development](#ai-rnd), AI-native products, and developer tools. I work both at the low level with **C++** and **PyTorch**, and at the higher level with LLM APIs, model routing, tool orchestration, and agent-based architectures.
+My focus is spread across several personal projects, new and old. The newest is [OVERSWEEP](#oversweep), a commercial combat flight game in **C++** and **Vulkan** that I am building solo, drawing on the flight-simulation work I did on [XPSVR](#xpsvr-experimental-flight-simulator). At the other end I keep maintaining and improving my mobile games, [Fractal Combat X](#fractal-combat-x) and [Final Freeway 2R](#final-freeway-2r).
 
-I am actively developing my own AI-based IDE called [Little Control Room](#little-control-room). I believe that the ability to rapidly develop tools for development is essential to accelerating productivity. It has the potential to build a competitive hedge and to future-proof this business by building alternative solutions, rather than relying on a single LLM provider.
+[Little Control Room](#little-control-room) sits in the middle of that. It is the control center I use to run several projects and coding agents at once, and it is as much an experiment as a tool: I am using it to find out how far productivity can be pushed by building for the way I work, instead of adapting to whatever a vendor ships. Current AI tools are what make a tool at that level affordable for one person to build and maintain.
 
-That tooling now drives [OVERSWEEP](#oversweep), a commercial combat flight game in **C++** and **Vulkan** that I am building solo. It joins the flight-simulation know-how I built on [XPSVR](#xpsvr-experimental-flight-simulator) to agent-assisted development, and its rate of progress is my most honest measure of how quickly AI tooling is actually improving.
-
-Before the new AI wave that started with ChatGPT, I've successfully applied **AI / ML** to **financial market forecasting** ([ENZO-TS](#enzo-trading-system)) and **autopilot** for airframes ([XPSVR](#xpsvr-experimental-flight-simulator)).
+AI is not a recent interest of mine. Before the current wave I applied **AI / ML** to **financial market forecasting** ([ENZO-TS](#enzo-trading-system)) and to **autopilot** for airframes ([XPSVR](#xpsvr-experimental-flight-simulator)). Today it also means [R&D](#ai-rnd) with **PyTorch**, and product work on top of LLM APIs, tool orchestration, and agent-based architectures.
 
 Since the mid-90s I've been working on **game development** and **real-time 3D graphics**, gaining experience in major gaming corporations as well as spearheading projects at my own [development studio](https://oykgames.com).
 
-## Programming in the AI era
+I keep room for contract work. Anything close to graphics, simulation, performance, or AI products tends to be a good fit, and unusual problems are welcome.
+
+## How I work today
 
 I'm not a terribly nostalgic person, and while I do appreciate how programming used to be and the personal benefits I received from doing it manually, I also realize that my passion for technology and the will to build more and better is stronger than the pure activity of writing code. Writing code itself has changed a lot over the years, from the daunting task of writing terse assembly code trying to shave every cycle to high-level languages and package systems that allow for rapid development of fairly complex applications.
 
-LLMs as they are today in 2026 have completely revolutionized the process, although having a strong foundation as a software engineer is still essential to build robust products.
+LLMs are the latest step in that direction, and they are now a normal part of how I work. What I get out of them is roughly proportional to what I already know.
 
-Recent projects such as **AskMei.ai**, **Little Control Room**, and **Fractal Strike** are fully developed with AI tools as a normal part of the engineering process. They are built with programming languages that I have never formally learned, but that now feel less like barriers and more like abstraction layers over the process of development.
+Two things changed in practice. One is reach: **AskMei.ai**, **Little Control Room**, and **Fractal Strike** are written in languages I never formally learned, which used to be a good reason not to start at all. The other is that experiments and tools became cheap. A utility that was never worth a week of work now takes an afternoon, and an idea I would have talked myself out of can be tried and thrown away in a day.
 
-**OVERSWEEP** is the counterpart experiment. It is C++ and Vulkan, in a domain I have worked in for decades, so the gain there is not crossing a language barrier but compressing what used to be years of engine and simulation work into months. The engineering judgement, rather than the typing, is the part that still has to be mine.
+**OVERSWEEP** is the opposite case. It is C++ and Vulkan, in a domain I have worked in for decades, so there is no language barrier to cross. What I get there is speed on work I could do anyway, which makes it a fair way to judge how much these tools are actually worth.
+
+What does not carry over is the product itself. Cheap experiments and good tooling get you to something that works, and that is where most of it stops. Getting to something people actually want to use still takes expertise, taste, and a lot of iteration by hand: how it feels, what to cut, when something is nearly right but not right yet. That part has not become any faster, and it is most of what separates a product that stands out from the many that merely work.
 
 |  Quick Links              |                                           |
 |:--------------------------|:------------------------------------------|
